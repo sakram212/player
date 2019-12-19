@@ -1,0 +1,2999 @@
+﻿1
+00:00:07,388 --> 00:00:08,428
+<font color="#ffff00" face="Open Sans">Apa?</font>
+
+2
+00:00:09,627 --> 00:00:11,258
+<font color="#ffff00" face="Open Sans">Kamu tahu kenapa?</font>
+
+3
+00:00:11,258 --> 00:00:13,928
+<font color="#ffff00" face="Open Sans">Iya nih. Saya pikir saya tahu.</font>
+
+4
+00:00:14,067 --> 00:00:16,028
+<font color="#ffff00" face="Open Sans">Apa itu? Mengapa Anda terus mengalami kesalahan?</font>
+
+5
+00:00:18,637 --> 00:00:19,698
+<font color="#ffff00" face="Open Sans">Han Yeo Reum.</font>
+
+6
+00:00:24,177 --> 00:00:25,407
+<font color="#ffff00" face="Open Sans">Maafkan saya.</font>
+
+7
+00:00:28,107 --> 00:00:30,547
+<font color="#ffff00" face="Open Sans">Pada hari ketika tidak berfungsi untuk pertama kalinya,</font>
+
+8
+00:00:31,247 --> 00:00:33,048
+<font color="#ffff00" face="Open Sans">Saya bertemu dengannya lagi.</font>
+
+9
+00:00:34,187 --> 00:00:35,217
+<font color="#ffff00" face="Open Sans">Pada hari itu juga.</font>
+
+10
+00:00:36,548 --> 00:00:37,687
+<font color="#ffff00" face="Open Sans">Dan pada hari itu juga.</font>
+
+11
+00:00:39,118 --> 00:00:41,228
+<font color="#ffff00" face="Open Sans">Karena perasaanku padanya semakin kuat,</font>
+
+12
+00:00:44,897 --> 00:00:45,997
+<font color="#ffff00" face="Open Sans">gejala yang tidak biasa ...</font>
+
+13
+00:00:47,228 --> 00:00:49,528
+<font color="#ffff00" face="Open Sans">juga tidak terkendali.</font>
+
+14
+00:00:50,567 --> 00:00:51,838
+<font color="#ffff00" face="Open Sans">Apa yang Anda maksud dengan...</font>
+
+15
+00:00:52,598 --> 00:00:53,637
+<font color="#ffff00" face="Open Sans">gejala yang tidak biasa?</font>
+
+16
+00:00:53,637 --> 00:00:55,868
+<font color="#ffff00" face="Open Sans">Anda mengatakan Anda memeriksanya secara menyeluruh,</font>
+
+17
+00:00:56,437 --> 00:00:57,937
+<font color="#ffff00" face="Open Sans">tapi aku tidak berpikir kamu melakukannya.</font>
+
+18
+00:00:58,037 --> 00:00:59,037
+<font color="#ffff00" face="Open Sans">Apa?</font>
+
+19
+00:00:59,738 --> 00:01:01,677
+<font color="#ffff00" face="Open Sans">Kenapa kamu berkelahi?</font>
+
+20
+00:01:01,677 --> 00:01:03,918
+<font color="#ffff00" face="Open Sans">Segala macam benda logam terbang ...</font>
+
+21
+00:01:04,347 --> 00:01:06,948
+<font color="#ffff00" face="Open Sans">dan terjebak di lengan Soo Yeon.</font>
+
+22
+00:01:07,148 --> 00:01:10,918
+<font color="#ffff00" face="Open Sans">Sepertinya dia memakai dukungan magnet yang kuat.</font>
+
+23
+00:01:11,418 --> 00:01:12,588
+<font color="#ffff00" face="Open Sans">Apa yang kamu pikir akan terjadi...</font>
+
+24
+00:01:12,818 --> 00:01:16,387
+<font color="#ffff00" face="Open Sans">apakah itu malfungsi di dalam bandara?</font>
+
+25
+00:01:16,588 --> 00:01:20,368
+<font color="#ffff00" face="Open Sans">Bagaimana jika malfungsi di T2 penuh dengan peralatan berteknologi tinggi?</font>
+
+26
+00:01:20,997 --> 00:01:21,997
+<font color="#ffff00" face="Open Sans">Lalu bagaimana?</font>
+
+27
+00:01:23,698 --> 00:01:26,467
+<font color="#ffff00" face="Open Sans">Jadi apa yang akan kamu lakukan?</font>
+
+28
+00:01:26,668 --> 00:01:28,038
+<font color="#ffff00" face="Open Sans">Aku ingin...</font>
+
+29
+00:01:29,008 --> 00:01:31,338
+<font color="#ffff00" face="Open Sans">bersamanya selama sebulan dalam satu atau lain cara.</font>
+
+30
+00:01:39,517 --> 00:01:42,517
+<font color="#ffff00" face="Open Sans">(Han Yeo Reum)</font>
+
+31
+00:02:04,877 --> 00:02:07,008
+<font color="#ffff00" face="Open Sans">Hai, Yeo Reum. Ini aku.</font>
+
+32
+00:02:14,447 --> 00:02:15,648
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+33
+00:02:16,747 --> 00:02:17,958
+<font color="#ffff00" face="Open Sans">Apakah kamu baik-baik saja?</font>
+
+34
+00:02:25,597 --> 00:02:27,227
+<font color="#ffff00" face="Open Sans">Saya baik-baik saja.</font>
+
+35
+00:02:28,868 --> 00:02:30,197
+<font color="#ffff00" face="Open Sans">Tentang apa yang terjadi sebelumnya ...</font>
+
+36
+00:02:31,138 --> 00:02:35,808
+<font color="#ffff00" face="Open Sans">Anda tidak perlu memberi tahu saya jika Anda tidak mau.</font>
+
+37
+00:02:38,338 --> 00:02:41,208
+<font color="#ffff00" face="Open Sans">Saya yakin Anda memiliki alasan Anda.</font>
+
+38
+00:02:43,817 --> 00:02:45,817
+<font color="#ffff00" face="Open Sans">Itu yang saya pikirkan.</font>
+
+39
+00:02:46,678 --> 00:02:49,088
+<font color="#ffff00" face="Open Sans">Jadi Anda tidak perlu menjelaskan.</font>
+
+40
+00:02:50,817 --> 00:02:52,458
+<font color="#ffff00" face="Open Sans">Saya benar-benar baik-baik saja dengan itu.</font>
+
+41
+00:02:59,597 --> 00:03:00,928
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+42
+00:03:03,067 --> 00:03:04,398
+<font color="#ffff00" face="Open Sans">Apakah kamu mendengarkan?</font>
+
+43
+00:03:06,537 --> 00:03:07,608
+<font color="#ffff00" face="Open Sans">Apakah itu...</font>
+
+44
+00:03:08,338 --> 00:03:09,768
+<font color="#ffff00" face="Open Sans">sungguh baik-baik saja?</font>
+
+45
+00:03:11,838 --> 00:03:12,877
+<font color="#ffff00" face="Open Sans">Aku tidak yakin ...</font>
+
+46
+00:03:14,078 --> 00:03:15,678
+<font color="#ffff00" face="Open Sans">jika tidak apa-apa ...</font>
+
+47
+00:03:17,717 --> 00:03:19,578
+<font color="#ffff00" face="Open Sans">menyukaimu.</font>
+
+48
+00:03:32,898 --> 00:03:35,497
+<font color="#ffff00" face="Open Sans">Kerja bagus.</font>
+
+49
+00:03:35,497 --> 00:03:37,997
+<font color="#ffff00" face="Open Sans">(Informasi teks tersedia untuk pendengaran yang disembunyikan)</font>
+
+50
+00:03:37,997 --> 00:03:39,268
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+51
+00:03:39,398 --> 00:03:40,537
+<font color="#ffff00" face="Open Sans">Ke mana saya pergi untuk keberangkatan?</font>
+
+52
+00:03:40,537 --> 00:03:41,708
+<font color="#ffff00" face="Open Sans">Keberangkatan?</font>
+
+53
+00:03:41,708 --> 00:03:44,108
+<font color="#ffff00" face="Open Sans">Jalan lurus saja, lalu naik eskalator.</font>
+
+54
+00:03:44,108 --> 00:03:46,007
+<font color="#ffff00" face="Open Sans">Saya lupa paspor saya di rumah.</font>
+
+55
+00:03:46,007 --> 00:03:47,778
+<font color="#ffff00" face="Open Sans">Bagaimana saya bisa mendapatkan paspor sementara?</font>
+
+56
+00:03:47,778 --> 00:03:51,347
+<font color="#ffff00" face="Open Sans">Jalan lurus ke arah Gate 6.</font>
+
+57
+00:03:58,518 --> 00:03:59,518
+<font color="#ffff00" face="Open Sans">- Halo. - Halo.</font>
+
+58
+00:03:59,518 --> 00:04:00,958
+<font color="#ffff00" face="Open Sans">Itu Tuan Lee.</font>
+
+59
+00:04:04,928 --> 00:04:05,928
+<font color="#ffff00" face="Open Sans">Apa yang sedang terjadi?</font>
+
+60
+00:04:11,437 --> 00:04:13,638
+<font color="#ffff00" face="Open Sans">Kami menyiapkan sesuatu untukmu.</font>
+
+61
+00:04:15,537 --> 00:04:16,638
+<font color="#ffff00" face="Open Sans">Apa ini?</font>
+
+62
+00:04:43,367 --> 00:04:45,537
+<font color="#ffff00" face="Open Sans">Pancuran di dekat rute transfer bocor.</font>
+
+63
+00:04:45,537 --> 00:04:47,338
+<font color="#ffff00" face="Open Sans">Saya dengar ini sangat berbahaya bagi pengguna.</font>
+
+64
+00:04:47,537 --> 00:04:49,068
+<font color="#ffff00" face="Open Sans">Aku butuh seseorang untuk pergi dan memeriksanya.</font>
+
+65
+00:04:49,208 --> 00:04:50,378
+<font color="#ffff00" face="Open Sans">Apakah Anda mendengar itu, Tuan Nam?</font>
+
+66
+00:04:50,578 --> 00:04:52,477
+<font color="#ffff00" face="Open Sans">Hubungi manajer dan periksa.</font>
+
+67
+00:04:52,477 --> 00:04:55,278
+<font color="#ffff00" face="Open Sans">- Apakah saya lagi? - Saya sangat sibuk...</font>
+
+68
+00:04:55,278 --> 00:04:58,047
+<font color="#ffff00" face="Open Sans">dengan pembangunan area istirahat staf.</font>
+
+69
+00:05:00,987 --> 00:05:03,758
+<font color="#ffff00" face="Open Sans">- Tuan Kim. - Saya ada rapat sepanjang sore ...</font>
+
+70
+00:05:03,758 --> 00:05:05,818
+<font color="#ffff00" face="Open Sans">karena saya harus menyewa artis untuk konser Natal.</font>
+
+71
+00:05:05,917 --> 00:05:07,028
+<font color="#ffff00" face="Open Sans">Aku akan kembali.</font>
+
+72
+00:05:07,088 --> 00:05:08,088
+<font color="#ffff00" face="Open Sans">Bagaimana denganmu, Bu Choi?</font>
+
+73
+00:05:08,088 --> 00:05:10,898
+<font color="#ffff00" face="Open Sans">Saya harus beralih furnitur di Zona Bersih.</font>
+
+74
+00:05:12,258 --> 00:05:14,927
+<font color="#ffff00" face="Open Sans">- Hei - Nona Han, ayo pergi.</font>
+
+75
+00:05:14,927 --> 00:05:16,667
+<font color="#ffff00" face="Open Sans">- Maaf? - Kami akan memeriksa sisi darat.</font>
+
+76
+00:05:16,667 --> 00:05:17,698
+<font color="#ffff00" face="Open Sans">Baik.</font>
+
+77
+00:05:19,838 --> 00:05:21,138
+<font color="#ffff00" face="Open Sans">Kami akan kembali.</font>
+
+78
+00:05:21,138 --> 00:05:22,138
+<font color="#ffff00" face="Open Sans">Baik.</font>
+
+79
+00:05:31,547 --> 00:05:34,347
+<font color="#ffff00" face="Open Sans">Ms. Yang, tolong katakan.</font>
+
+80
+00:06:07,948 --> 00:06:09,347
+<font color="#ffff00" face="Open Sans">Kemana kita pergi duluan?</font>
+
+81
+00:06:09,487 --> 00:06:10,717
+<font color="#ffff00" face="Open Sans">Tanah atau udara?</font>
+
+82
+00:06:10,857 --> 00:06:12,018
+<font color="#ffff00" face="Open Sans">Tanah.</font>
+
+83
+00:06:12,117 --> 00:06:14,857
+<font color="#ffff00" face="Open Sans">Kami diperintahkan untuk menindak limusin ilegal minggu ini.</font>
+
+84
+00:06:15,888 --> 00:06:17,097
+<font color="#ffff00" face="Open Sans">Baik.</font>
+
+85
+00:06:17,097 --> 00:06:18,998
+<font color="#ffff00" face="Open Sans">Apakah Anda ingin sisi timur atau sisi barat?</font>
+
+86
+00:06:20,467 --> 00:06:22,898
+<font color="#ffff00" face="Open Sans">Mari kita tidak berpisah ...</font>
+
+87
+00:06:22,898 --> 00:06:24,737
+<font color="#ffff00" face="Open Sans">dan tetap bersama hari ini.</font>
+
+88
+00:06:32,537 --> 00:06:35,278
+<font color="#ffff00" face="Open Sans">Baik. Saya akan mengambil sisi barat.</font>
+
+89
+00:06:47,128 --> 00:06:50,258
+<font color="#ffff00" face="Open Sans">Jadi kapan kita akan berkencan?</font>
+
+90
+00:06:53,898 --> 00:06:56,328
+<font color="#ffff00" face="Open Sans">Anda memutuskan tanggal makan malam terakhir kali.</font>
+
+91
+00:06:56,597 --> 00:06:58,938
+<font color="#ffff00" face="Open Sans">Anda mengatakan kami akan menjadwalkan tanggal baru,</font>
+
+92
+00:06:58,938 --> 00:07:00,838
+<font color="#ffff00" face="Open Sans">tetapi Anda belum mengatakan apa pun.</font>
+
+93
+00:07:01,068 --> 00:07:04,378
+<font color="#ffff00" face="Open Sans">Kapan kita dapat makan malam itu, Soo Yeon?</font>
+
+94
+00:07:22,528 --> 00:07:25,357
+<font color="#ffff00" face="Open Sans">Kemudian. Mari kita bicara nanti.</font>
+
+95
+00:07:57,628 --> 00:07:59,657
+<font color="#ffff00" face="Open Sans">- Tunggu! Tunggu! - Cepat.</font>
+
+96
+00:07:59,927 --> 00:08:00,927
+<font color="#ffff00" face="Open Sans">Percepat.</font>
+
+97
+00:08:01,297 --> 00:08:05,467
+<font color="#ffff00" face="Open Sans">- Permisi. - Maaf.</font>
+
+98
+00:08:05,467 --> 00:08:06,698
+<font color="#ffff00" face="Open Sans">Lantai tiga, tolong.</font>
+
+99
+00:10:09,187 --> 00:10:10,457
+<font color="#ffff00" face="Open Sans">Biarkan saya menanyakan dua hal.</font>
+
+100
+00:10:11,398 --> 00:10:12,427
+<font color="#ffff00" face="Open Sans">Baik.</font>
+
+101
+00:10:12,697 --> 00:10:16,167
+<font color="#ffff00" face="Open Sans">Apakah kamu tidak menganggapku aneh?</font>
+
+102
+00:10:19,937 --> 00:10:22,837
+<font color="#ffff00" face="Open Sans">Jika Anda bertanya tentang lengan Anda,</font>
+
+103
+00:10:24,177 --> 00:10:27,108
+<font color="#ffff00" face="Open Sans">iya nih. Saya merasa aneh ...</font>
+
+104
+00:10:27,348 --> 00:10:29,207
+<font color="#ffff00" face="Open Sans">dari saat ...</font>
+
+105
+00:10:29,207 --> 00:10:31,648
+<font color="#ffff00" face="Open Sans">kompas saya terjebak di lengan Anda.</font>
+
+106
+00:10:31,947 --> 00:10:34,848
+<font color="#ffff00" face="Open Sans">Apakah Anda tidak menemukan saya menakutkan?</font>
+
+107
+00:10:35,148 --> 00:10:36,488
+<font color="#ffff00" face="Open Sans">Bagaimana apanya?</font>
+
+108
+00:10:36,488 --> 00:10:38,488
+<font color="#ffff00" face="Open Sans">Anda melihat apa yang terjadi kemarin.</font>
+
+109
+00:10:38,988 --> 00:10:40,218
+<font color="#ffff00" face="Open Sans">Di atas itu,</font>
+
+110
+00:10:40,787 --> 00:10:44,358
+<font color="#ffff00" face="Open Sans">Anda tahu bahwa saya memiliki cacat fisik tingkat 1.</font>
+
+111
+00:10:44,427 --> 00:10:47,728
+<font color="#ffff00" face="Open Sans">Apakah itu sesuatu yang harus kutakutkan?</font>
+
+112
+00:10:48,327 --> 00:10:50,797
+<font color="#ffff00" face="Open Sans">Bagaimanapun, aku berbeda.</font>
+
+113
+00:10:51,738 --> 00:10:55,108
+<font color="#ffff00" face="Open Sans">Bukankah kita semua berbeda?</font>
+
+114
+00:10:56,437 --> 00:10:59,807
+<font color="#ffff00" face="Open Sans">Kami dilahirkan berbeda, dan kami hidup berbeda.</font>
+
+115
+00:11:00,307 --> 00:11:02,547
+<font color="#ffff00" face="Open Sans">Saya ingin menjadi istimewa ...</font>
+
+116
+00:11:02,547 --> 00:11:05,018
+<font color="#ffff00" face="Open Sans">sementara Anda ingin menjadi biasa.</font>
+
+117
+00:11:05,317 --> 00:11:07,518
+<font color="#ffff00" face="Open Sans">Saya selalu ingin bekerja dengan baik di ...</font>
+
+118
+00:11:07,518 --> 00:11:09,417
+<font color="#ffff00" face="Open Sans">dan orang-orang memuji saya untuk bakat saya,</font>
+
+119
+00:11:09,848 --> 00:11:12,057
+<font color="#ffff00" face="Open Sans">- Tapi kamu ... - Aku benci ...</font>
+
+120
+00:11:12,457 --> 00:11:14,057
+<font color="#ffff00" face="Open Sans">mendapatkan perhatian.</font>
+
+121
+00:11:17,998 --> 00:11:20,098
+<font color="#ffff00" face="Open Sans">Kami sudah tahu ...</font>
+
+122
+00:11:20,498 --> 00:11:22,128
+<font color="#ffff00" face="Open Sans">bahwa kita berbeda.</font>
+
+123
+00:11:23,368 --> 00:11:25,337
+<font color="#ffff00" face="Open Sans">Apa yang sangat Anda khawatirkan?</font>
+
+124
+00:11:33,508 --> 00:11:36,677
+<font color="#ffff00" face="Open Sans">Saya terus mogok.</font>
+
+125
+00:11:40,317 --> 00:11:43,087
+<font color="#ffff00" face="Open Sans">Saya terus mogok ...</font>
+
+126
+00:11:45,817 --> 00:11:47,427
+<font color="#ffff00" face="Open Sans">karena kamu.</font>
+
+127
+00:11:50,358 --> 00:11:52,628
+<font color="#ffff00" face="Open Sans">Maksud kamu apa?</font>
+
+128
+00:12:09,848 --> 00:12:11,718
+<font color="#ffff00" face="Open Sans">Aku sangat menyukaimu.</font>
+
+129
+00:12:13,348 --> 00:12:14,518
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+130
+00:12:15,787 --> 00:12:17,287
+<font color="#ffff00" face="Open Sans">Tapi semakin aku menyukaimu,</font>
+
+131
+00:12:18,557 --> 00:12:19,858
+<font color="#ffff00" face="Open Sans">lebih...</font>
+
+132
+00:12:21,157 --> 00:12:23,128
+<font color="#ffff00" face="Open Sans">hatiku sakit dan berdebar untukmu,</font>
+
+133
+00:12:25,197 --> 00:12:28,768
+<font color="#ffff00" face="Open Sans">Saya memecah lebih banyak lagi.</font>
+
+134
+00:12:31,167 --> 00:12:32,337
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+135
+00:13:01,827 --> 00:13:02,827
+<font color="#ffff00" face="Open Sans">Maafkan saya.</font>
+
+136
+00:13:04,537 --> 00:13:07,837
+<font color="#ffff00" face="Open Sans">Tolong beri saya waktu.</font>
+
+137
+00:13:09,638 --> 00:13:12,108
+<font color="#ffff00" face="Open Sans">Saya minta maaf, Yeo Reum.</font>
+
+138
+00:13:58,157 --> 00:13:59,787
+<font color="#ffff00" face="Open Sans">Saya ingin Anda datang ke departemen operasi.</font>
+
+139
+00:14:02,457 --> 00:14:04,258
+<font color="#ffff00" face="Open Sans">Dia bilang dia menjadi rusak?</font>
+
+140
+00:14:04,628 --> 00:14:07,098
+<font color="#ffff00" face="Open Sans">Apa metafora yang menarik.</font>
+
+141
+00:14:07,567 --> 00:14:10,437
+<font color="#ffff00" face="Open Sans">Jadi katakan padaku. Tepatnya bagian mana yang rusak?</font>
+
+142
+00:14:10,738 --> 00:14:12,968
+<font color="#ffff00" face="Open Sans">Hatinya? Jiwanya?</font>
+
+143
+00:14:14,307 --> 00:14:15,307
+<font color="#ffff00" face="Open Sans">Aku tidak yakin.</font>
+
+144
+00:14:16,508 --> 00:14:18,978
+<font color="#ffff00" face="Open Sans">Apakah kamu menyukai pria itu?</font>
+
+145
+00:14:21,348 --> 00:14:23,307
+<font color="#ffff00" face="Open Sans">Pernahkah Anda mengatakan kepadanya bahwa Anda menyukainya?</font>
+
+146
+00:14:25,547 --> 00:14:27,118
+<font color="#ffff00" face="Open Sans">Tidak, belum.</font>
+
+147
+00:14:27,748 --> 00:14:28,817
+<font color="#ffff00" face="Open Sans">Yah, saya kira ...</font>
+
+148
+00:14:29,417 --> 00:14:31,957
+<font color="#ffff00" face="Open Sans">tidak ada gunanya menjaga hal-hal serius antara seorang pria dan seorang wanita.</font>
+
+149
+00:14:32,687 --> 00:14:34,957
+<font color="#ffff00" face="Open Sans">Jika hal-hal perlu ditangani dengan ringan, maka itulah yang harus Anda lakukan.</font>
+
+150
+00:14:37,858 --> 00:14:38,858
+<font color="#ffff00" face="Open Sans">Sini.</font>
+
+151
+00:14:39,657 --> 00:14:40,898
+<font color="#ffff00" face="Open Sans">Anda mau satu?</font>
+
+152
+00:14:41,098 --> 00:14:42,427
+<font color="#ffff00" face="Open Sans">Terima kasih.</font>
+
+153
+00:14:44,297 --> 00:14:45,998
+<font color="#ffff00" face="Open Sans">Bukankah itu walkie-talkie?</font>
+
+154
+00:14:45,998 --> 00:14:48,307
+<font color="#ffff00" face="Open Sans">Ya itu. Aku menemukannya.</font>
+
+155
+00:14:50,108 --> 00:14:52,077
+<font color="#ffff00" face="Open Sans">Ini milik bandara.</font>
+
+156
+00:14:52,907 --> 00:14:54,878
+<font color="#ffff00" face="Open Sans">- Tidak, tidak. - Ya, benar.</font>
+
+157
+00:14:54,878 --> 00:14:56,307
+<font color="#ffff00" face="Open Sans">Saya yakin itu milik bandara.</font>
+
+158
+00:14:56,307 --> 00:14:59,118
+<font color="#ffff00" face="Open Sans">Tidak, ini milik Oh Dae Gi.</font>
+
+159
+00:14:59,248 --> 00:15:01,917
+<font color="#ffff00" face="Open Sans">Apa? Oh Dae Gi?</font>
+
+160
+00:15:03,287 --> 00:15:04,417
+<font color="#ffff00" face="Open Sans">Oh Dae Gi dari Layanan Keamanan?</font>
+
+161
+00:15:13,128 --> 00:15:14,728
+<font color="#ffff00" face="Open Sans">Di mana Young Joo?</font>
+
+162
+00:15:14,728 --> 00:15:15,927
+<font color="#ffff00" face="Open Sans">Saya tidak bisa melihatnya di mana saja.</font>
+
+163
+00:15:16,327 --> 00:15:18,837
+<font color="#ffff00" face="Open Sans">Dia rupanya harus mengurus sesuatu.</font>
+
+164
+00:15:18,837 --> 00:15:21,268
+<font color="#ffff00" face="Open Sans">Apa? Apakah tim lain meminta bantuannya?</font>
+
+165
+00:15:21,268 --> 00:15:22,837
+<font color="#ffff00" face="Open Sans">Tidak, tidak juga.</font>
+
+166
+00:15:24,378 --> 00:15:26,207
+<font color="#ffff00" face="Open Sans">Apa itu? Apa yang salah?</font>
+
+167
+00:15:27,008 --> 00:15:30,348
+<font color="#ffff00" face="Open Sans">Pernahkah Anda melihat seorang tunawisma memakai jas hujan,</font>
+
+168
+00:15:30,348 --> 00:15:32,118
+<font color="#ffff00" face="Open Sans">sebuah fedora, dan kacamata berbingkai tanduk?</font>
+
+169
+00:15:32,118 --> 00:15:35,718
+<font color="#ffff00" face="Open Sans">Dia tampaknya berusia 50-an atau di awal 60-an.</font>
+
+170
+00:15:35,718 --> 00:15:36,718
+<font color="#ffff00" face="Open Sans">Saya tidak yakin.</font>
+
+171
+00:15:50,268 --> 00:15:51,337
+<font color="#ffff00" face="Open Sans">Apa masalahnya?</font>
+
+172
+00:15:51,337 --> 00:15:52,998
+<font color="#ffff00" face="Open Sans">Tuan Choi dari Layanan Keamanan ...</font>
+
+173
+00:15:52,998 --> 00:15:55,868
+<font color="#ffff00" face="Open Sans">meminta saya untuk membatasi tugas Anda ke layanan darat.</font>
+
+174
+00:15:57,437 --> 00:16:00,207
+<font color="#ffff00" face="Open Sans">Mengapa Anda ingin membatasi pekerjaan saya?</font>
+
+175
+00:16:00,207 --> 00:16:02,177
+<font color="#ffff00" face="Open Sans">Tuan Seo bilang dia melihat zat logam ...</font>
+
+176
+00:16:02,177 --> 00:16:04,018
+<font color="#ffff00" face="Open Sans">tiba-tiba menempel di lenganmu.</font>
+
+177
+00:16:04,618 --> 00:16:06,718
+<font color="#ffff00" face="Open Sans">Anda mengatakan kepada saya bahwa itu tidak pernah berfungsi.</font>
+
+178
+00:16:07,447 --> 00:16:09,518
+<font color="#ffff00" face="Open Sans">Jika hal-hal terus mengontrak apa yang kau katakan padaku,</font>
+
+179
+00:16:09,718 --> 00:16:13,758
+<font color="#ffff00" face="Open Sans">Saya mungkin tidak bisa memberi Anda bulan yang saya janjikan.</font>
+
+180
+00:16:15,287 --> 00:16:17,628
+<font color="#ffff00" face="Open Sans">Saya tahu mengapa perangkat tidak berfungsi.</font>
+
+181
+00:16:18,128 --> 00:16:20,197
+<font color="#ffff00" face="Open Sans">Dan saya mencoba mencari cara untuk mengendalikannya.</font>
+
+182
+00:16:20,197 --> 00:16:21,768
+<font color="#ffff00" face="Open Sans">Tidak bisakah kamu memperbaikinya?</font>
+
+183
+00:16:24,167 --> 00:16:26,067
+<font color="#ffff00" face="Open Sans">Jika dia tidak bisa memperbaikinya, dia harus berhenti.</font>
+
+184
+00:16:28,608 --> 00:16:31,108
+<font color="#ffff00" face="Open Sans">Anda memakai perangkat pendukung yang menyebabkan masalah,</font>
+
+185
+00:16:31,577 --> 00:16:35,077
+<font color="#ffff00" face="Open Sans">dan situasi yang terjadi kemarin tidak dapat diulang.</font>
+
+186
+00:16:35,278 --> 00:16:36,407
+<font color="#ffff00" face="Open Sans">Apakah kamu tidak setuju?</font>
+
+187
+00:16:36,947 --> 00:16:39,618
+<font color="#ffff00" face="Open Sans">Tuan Seo, tolong jangan ikut campur pembicaraan kali ini.</font>
+
+188
+00:16:39,618 --> 00:16:42,947
+<font color="#ffff00" face="Open Sans">Anda perlu membedakan apa dan apa yang tidak perlu Anda perjuangkan.</font>
+
+189
+00:16:43,047 --> 00:16:45,557
+<font color="#ffff00" face="Open Sans">Ini bukan hanya masalah dalam tim Anda.</font>
+
+190
+00:16:45,557 --> 00:16:49,258
+<font color="#ffff00" face="Open Sans">Ini terkait dengan departemen kami dan keamanan bandara.</font>
+
+191
+00:16:49,787 --> 00:16:51,128
+<font color="#ffff00" face="Open Sans">Apakah Anda tidak setuju, Tuan Choi?</font>
+
+192
+00:16:51,128 --> 00:16:52,827
+<font color="#ffff00" face="Open Sans">Aku ingat memberitahumu berkali-kali ...</font>
+
+193
+00:16:53,998 --> 00:16:56,167
+<font color="#ffff00" face="Open Sans">tidak menyalahgunakan wewenang Anda dan mengganggu pekerjaan saya.</font>
+
+194
+00:16:56,167 --> 00:16:57,868
+<font color="#ffff00" face="Open Sans">Saya bertanya pada NIS,</font>
+
+195
+00:16:58,238 --> 00:17:00,738
+<font color="#ffff00" face="Open Sans">dan mereka tampaknya belum menerima laporan tentang Soo Yeon.</font>
+
+196
+00:17:03,138 --> 00:17:05,978
+<font color="#ffff00" face="Open Sans">Saya tidak tahu koneksi seperti apa yang Anda miliki, tetapi saya pikir ...</font>
+
+197
+00:17:06,137 --> 00:17:09,577
+<font color="#ffff00" face="Open Sans">Saya bisa menjadikan ini menjadi masalah jika saya benar-benar menginginkannya.</font>
+
+198
+00:17:10,047 --> 00:17:11,117
+<font color="#ffff00" face="Open Sans">Apakah saya benar?</font>
+
+199
+00:17:11,877 --> 00:17:13,117
+<font color="#ffff00" face="Open Sans">Sudah cukup, Tuan Seo.</font>
+
+200
+00:17:13,117 --> 00:17:15,087
+<font color="#ffff00" face="Open Sans">Ini adalah percakapan antara manajer tim.</font>
+
+201
+00:17:15,587 --> 00:17:16,718
+<font color="#ffff00" face="Open Sans">Aku ingin kamu tidak ikut campur.</font>
+
+202
+00:17:16,718 --> 00:17:19,188
+<font color="#ffff00" face="Open Sans">Ini masalah saya, jadi saya ingin Anda membicarakannya dengan saya, In Woo.</font>
+
+203
+00:17:30,668 --> 00:17:32,168
+<font color="#ffff00" face="Open Sans">- Cara ini. - Baik.</font>
+
+204
+00:17:34,837 --> 00:17:38,678
+<font color="#ffff00" face="Open Sans">Tidak bisakah aku memberinya walkie-talkie sendiri?</font>
+
+205
+00:17:39,478 --> 00:17:40,647
+<font color="#ffff00" face="Open Sans">Tidak, kamu tidak bisa.</font>
+
+206
+00:17:41,248 --> 00:17:43,208
+<font color="#ffff00" face="Open Sans">Aku akan memberikannya sendiri padanya ...</font>
+
+207
+00:17:43,208 --> 00:17:45,218
+<font color="#ffff00" face="Open Sans">dan terima resmi terima kasih.</font>
+
+208
+00:17:46,047 --> 00:17:49,387
+<font color="#ffff00" face="Open Sans">Akan lebih baik jika dia mentraktirku semangkuk jajangmyeon.</font>
+
+209
+00:17:49,988 --> 00:17:51,557
+<font color="#ffff00" face="Open Sans">Tetap di sini sebentar.</font>
+
+210
+00:17:51,557 --> 00:17:54,158
+<font color="#ffff00" face="Open Sans">Saya akan bertanya apakah Pak Oh ada di kantor.</font>
+
+211
+00:17:54,158 --> 00:17:56,327
+<font color="#ffff00" face="Open Sans">Jangan kemana-mana, oke?</font>
+
+212
+00:17:56,928 --> 00:17:58,498
+<font color="#ffff00" face="Open Sans">Oke, lanjutkan.</font>
+
+213
+00:18:11,637 --> 00:18:12,938
+<font color="#ffff00" face="Open Sans">Anda benar-benar harus berhenti.</font>
+
+214
+00:18:17,748 --> 00:18:19,647
+<font color="#ffff00" face="Open Sans">Aku mengerti kamu membenciku.</font>
+
+215
+00:18:19,778 --> 00:18:21,948
+<font color="#ffff00" face="Open Sans">Tetapi Anda tidak perlu melecehkan orang lain untuk itu.</font>
+
+216
+00:18:21,948 --> 00:18:23,718
+<font color="#ffff00" face="Open Sans">Itu sebabnya kau harus pergi ketika aku menyuruhmu.</font>
+
+217
+00:18:23,718 --> 00:18:26,057
+<font color="#ffff00" face="Open Sans">Mengapa Anda membuat hal-hal yang mengganggu dengan tetap?</font>
+
+218
+00:18:26,057 --> 00:18:27,458
+<font color="#ffff00" face="Open Sans">Apa tujuanmu?</font>
+
+219
+00:18:28,258 --> 00:18:29,988
+<font color="#ffff00" face="Open Sans">Apakah kamu mencoba untuk membalas dendam?</font>
+
+220
+00:18:29,988 --> 00:18:33,428
+<font color="#ffff00" face="Open Sans">Apakah Anda pikir saya di sini karena saya ingin membalas dendam pada Anda?</font>
+
+221
+00:18:33,428 --> 00:18:35,567
+<font color="#ffff00" face="Open Sans">Anda memakai perangkat pendukung yang tidak dikenal.</font>
+
+222
+00:18:35,797 --> 00:18:37,738
+<font color="#ffff00" face="Open Sans">Anda menggunakan semacam kekuatan supranatural.</font>
+
+223
+00:18:37,738 --> 00:18:39,637
+<font color="#ffff00" face="Open Sans">Dan Anda terus berkeliaran di sekitar saya.</font>
+
+224
+00:18:40,037 --> 00:18:41,938
+<font color="#ffff00" face="Open Sans">Itu hanya menunjukkan bahwa kamu mencoba menakutiku ...</font>
+
+225
+00:18:42,438 --> 00:18:43,837
+<font color="#ffff00" face="Open Sans">dan membuatku merasa gugup.</font>
+
+226
+00:18:44,438 --> 00:18:47,377
+<font color="#ffff00" face="Open Sans">Semuanya baik-baik saja sebelum kamu muncul.</font>
+
+227
+00:18:47,748 --> 00:18:49,877
+<font color="#ffff00" face="Open Sans">Aku sudah melupakan semua tentangmu dan kecelakaan itu ...</font>
+
+228
+00:18:50,518 --> 00:18:52,418
+<font color="#ffff00" face="Open Sans">dan menjalani kehidupan yang baik.</font>
+
+229
+00:18:53,117 --> 00:18:56,718
+<font color="#ffff00" face="Open Sans">Saya cukup baik, berkepala dingin, dan mudah bergaul.</font>
+
+230
+00:18:57,057 --> 00:18:59,587
+<font color="#ffff00" face="Open Sans">Apakah kamu tidak lagi bisa seperti itu sekarang karena aku di sini?</font>
+
+231
+00:19:00,057 --> 00:19:03,258
+<font color="#ffff00" face="Open Sans">Apakah saya mengingatkan Anda tentang bagaimana Anda meninggalkan saya seperti seorang pengecut?</font>
+
+232
+00:19:03,728 --> 00:19:07,327
+<font color="#ffff00" face="Open Sans">Jadi, apakah Anda merasa terluka, sakit, dan bersalah?</font>
+
+233
+00:19:07,327 --> 00:19:09,897
+<font color="#ffff00" face="Open Sans">Hanya seseorang dengan hati nurani ...</font>
+
+234
+00:19:11,067 --> 00:19:14,168
+<font color="#ffff00" face="Open Sans">akan merasa sakit hati, menyakitkan, atau bersalah, Soo Yeon.</font>
+
+235
+00:19:14,938 --> 00:19:16,607
+<font color="#ffff00" face="Open Sans">Sudah lama sejak aku menyerah untuk memiliki hati nurani.</font>
+
+236
+00:19:17,137 --> 00:19:20,208
+<font color="#ffff00" face="Open Sans">Saya tidak pernah menganggap diri saya sebagai orang baik.</font>
+
+237
+00:19:20,708 --> 00:19:23,178
+<font color="#ffff00" face="Open Sans">Dan saya juga tidak pernah benar-benar mencoba menjadi salah satunya.</font>
+
+238
+00:19:23,577 --> 00:19:24,778
+<font color="#ffff00" face="Open Sans">Sejujurnya,</font>
+
+239
+00:19:26,547 --> 00:19:28,147
+<font color="#ffff00" face="Open Sans">Saya bahkan tidak dilahirkan seperti itu.</font>
+
+240
+00:19:33,418 --> 00:19:34,827
+<font color="#ffff00" face="Open Sans">Jadi jangan memperburuk ...</font>
+
+241
+00:19:36,228 --> 00:19:38,897
+<font color="#ffff00" face="Open Sans">hubungan kita. Anda harus berhenti sekarang.</font>
+
+242
+00:19:39,958 --> 00:19:42,698
+<font color="#ffff00" face="Open Sans">Jika kamu sangat membenciku, kamu harus menjadi orang yang berhenti.</font>
+
+243
+00:19:42,698 --> 00:19:44,768
+<font color="#ffff00" face="Open Sans">Jika saya punya pilihan untuk berhenti bekerja di sini,</font>
+
+244
+00:19:45,668 --> 00:19:47,867
+<font color="#ffff00" face="Open Sans">Saya bahkan tidak akan mulai bekerja di sini di tempat pertama.</font>
+
+245
+00:19:50,377 --> 00:19:51,438
+<font color="#ffff00" face="Open Sans">Maksudnya apa?</font>
+
+246
+00:19:51,438 --> 00:19:54,208
+<font color="#ffff00" face="Open Sans">Ada orang di dunia ini yang berencana melakukan sesuatu ...</font>
+
+247
+00:19:54,208 --> 00:19:55,908
+<font color="#ffff00" face="Open Sans">itu benar-benar tidak terbayangkan.</font>
+
+248
+00:19:55,908 --> 00:19:56,978
+<font color="#ffff00" face="Open Sans">Dan saya...</font>
+
+249
+00:19:57,617 --> 00:20:01,387
+<font color="#ffff00" face="Open Sans">hanya sebagian kecil dari gambaran besar mereka.</font>
+
+250
+00:20:02,887 --> 00:20:05,057
+<font color="#ffff00" face="Open Sans">Jadi Soo Yeon, tolonglah ...</font>
+
+251
+00:20:05,817 --> 00:20:06,887
+<font color="#ffff00" face="Open Sans">meninggalkan.</font>
+
+252
+00:20:08,488 --> 00:20:10,698
+<font color="#ffff00" face="Open Sans">Pergi sebelum kamu terluka lagi, oke?</font>
+
+253
+00:20:22,408 --> 00:20:25,107
+<font color="#ffff00" face="Open Sans">Maafkan saya. Saya tersesat.</font>
+
+254
+00:20:37,418 --> 00:20:38,518
+<font color="#ffff00" face="Open Sans">Tuan.</font>
+
+255
+00:20:44,797 --> 00:20:46,397
+<font color="#ffff00" face="Open Sans">Halo, Tuan Seo.</font>
+
+256
+00:20:48,528 --> 00:20:51,097
+<font color="#ffff00" face="Open Sans">Siapa dia?</font>
+
+257
+00:20:52,597 --> 00:20:55,637
+<font color="#ffff00" face="Open Sans">Dia menemukan sesuatu yang termasuk dalam Layanan Keamanan.</font>
+
+258
+00:20:55,867 --> 00:20:56,938
+<font color="#ffff00" face="Open Sans">Karena itulah ...</font>
+
+259
+00:20:58,877 --> 00:21:01,147
+<font color="#ffff00" face="Open Sans">Saya membawanya ke sini.</font>
+
+260
+00:21:12,787 --> 00:21:15,387
+<font color="#ffff00" face="Open Sans">Kebetulan, apakah Anda mengenal Tuan Seo?</font>
+
+261
+00:21:21,998 --> 00:21:23,097
+<font color="#ffff00" face="Open Sans">Tuan.</font>
+
+262
+00:21:27,837 --> 00:21:30,168
+<font color="#ffff00" face="Open Sans">Ini aku, Soo Yeon.</font>
+
+263
+00:21:44,718 --> 00:21:46,458
+<font color="#ffff00" face="Open Sans">(Sutradara Jo)</font>
+
+264
+00:21:52,097 --> 00:21:54,498
+<font color="#ffff00" face="Open Sans">- Apa? Sangat? - Diam.</font>
+
+265
+00:21:55,928 --> 00:21:57,238
+<font color="#ffff00" face="Open Sans">Pelankan suaramu.</font>
+
+266
+00:21:57,238 --> 00:22:00,067
+<font color="#ffff00" face="Open Sans">Apakah Anda benar-benar melihat Mr. Lee menerima uang dari mereka?</font>
+
+267
+00:22:00,168 --> 00:22:01,968
+<font color="#ffff00" face="Open Sans">- Apakah kamu yakin? - Iya nih.</font>
+
+268
+00:22:02,238 --> 00:22:05,037
+<font color="#ffff00" face="Open Sans">Masih ada di saku mantelnya.</font>
+
+269
+00:22:05,877 --> 00:22:08,047
+<font color="#ffff00" face="Open Sans">Apakah Anda melihat amplop kuning di saku mantelnya?</font>
+
+270
+00:22:08,208 --> 00:22:10,008
+<font color="#ffff00" face="Open Sans">Apa? Siapa yang menerima apa?</font>
+
+271
+00:22:10,008 --> 00:22:13,347
+<font color="#ffff00" face="Open Sans">Tuan Lee rupanya menerima uang.</font>
+
+272
+00:22:13,347 --> 00:22:14,647
+<font color="#ffff00" face="Open Sans">Ya ampun.</font>
+
+273
+00:22:14,647 --> 00:22:16,047
+<font color="#ffff00" face="Open Sans">Jangan bicara omong kosong.</font>
+
+274
+00:22:16,387 --> 00:22:18,117
+<font color="#ffff00" face="Open Sans">Siapa yang memberitahumu sesuatu yang sangat tidak masuk akal?</font>
+
+275
+00:22:18,117 --> 00:22:21,827
+<font color="#ffff00" face="Open Sans">Diam. Keep it down, kan? Seseorang mungkin mendengarmu.</font>
+
+276
+00:22:22,057 --> 00:22:24,728
+<font color="#ffff00" face="Open Sans">Tuan Yoon rupanya melihatnya sendiri.</font>
+
+277
+00:22:24,728 --> 00:22:28,528
+<font color="#ffff00" face="Open Sans">Tepat sebelum bekerja, dia rupanya melihat Mr. Lee mendekati orang-orang ...</font>
+
+278
+00:22:28,528 --> 00:22:30,228
+<font color="#ffff00" face="Open Sans">yang bertanggung jawab mengelola van dan taksi ...</font>
+
+279
+00:22:30,228 --> 00:22:32,567
+<font color="#ffff00" face="Open Sans">dan menerima amplop dari mereka.</font>
+
+280
+00:22:34,708 --> 00:22:37,107
+<font color="#ffff00" face="Open Sans">- Saya pikir ini terlihat baik-baik saja. - Oke, pak.</font>
+
+281
+00:22:48,287 --> 00:22:50,887
+<font color="#ffff00" face="Open Sans">Pernahkah Anda melihat seorang pria berusia akhir 50-an atau awal 60-an yang mengenakan ...</font>
+
+282
+00:22:50,887 --> 00:22:53,758
+<font color="#ffff00" face="Open Sans">mantel parit, topi fedora, dan kacamata berbingkai tanduk?</font>
+
+283
+00:22:53,758 --> 00:22:55,057
+<font color="#ffff00" face="Open Sans">Tidak, kami belum.</font>
+
+284
+00:23:01,268 --> 00:23:02,768
+<font color="#ffff00" face="Open Sans">Young Joo, apa yang kamu lakukan di sini?</font>
+
+285
+00:23:02,768 --> 00:23:03,998
+<font color="#ffff00" face="Open Sans">Apakah ada yang salah?</font>
+
+286
+00:23:04,397 --> 00:23:05,897
+<font color="#ffff00" face="Open Sans">Apakah ada tim lain yang membutuhkan bantuan saya?</font>
+
+287
+00:23:06,938 --> 00:23:08,238
+<font color="#ffff00" face="Open Sans">Sudah berapa kali Anda mengitari tempat ini?</font>
+
+288
+00:23:09,307 --> 00:23:10,377
+<font color="#ffff00" face="Open Sans">Tiga kali.</font>
+
+289
+00:23:10,377 --> 00:23:12,678
+<font color="#ffff00" face="Open Sans">Apakah kamu akan terus mempermalukan aku seperti ini?</font>
+
+290
+00:23:12,738 --> 00:23:14,347
+<font color="#ffff00" face="Open Sans">Tempatkan diri Anda di sepatu saya.</font>
+
+291
+00:23:14,377 --> 00:23:16,547
+<font color="#ffff00" face="Open Sans">Bawahan Anda akan melalui kesulitan ...</font>
+
+292
+00:23:16,547 --> 00:23:18,147
+<font color="#ffff00" face="Open Sans">karena kamu kehilangan radio.</font>
+
+293
+00:23:18,147 --> 00:23:19,748
+<font color="#ffff00" face="Open Sans">Saya tidak melakukan ini karena Anda memerintahkan saya untuk,</font>
+
+294
+00:23:19,748 --> 00:23:21,147
+<font color="#ffff00" face="Open Sans">tetapi karena saya ingin.</font>
+
+295
+00:23:21,147 --> 00:23:22,147
+<font color="#ffff00" face="Open Sans">Bagaimanapun.</font>
+
+296
+00:23:22,448 --> 00:23:25,087
+<font color="#ffff00" face="Open Sans">Saya merasa malu di depan bawahan saya.</font>
+
+297
+00:23:25,087 --> 00:23:26,087
+<font color="#ffff00" face="Open Sans">Maafkan saya.</font>
+
+298
+00:23:26,518 --> 00:23:28,827
+<font color="#ffff00" face="Open Sans">Apakah kamu malu di depan rekan tim lainnya?</font>
+
+299
+00:23:29,387 --> 00:23:31,198
+<font color="#ffff00" face="Open Sans">Apakah saya mengatakan rekan tim yang lain?</font>
+
+300
+00:23:32,297 --> 00:23:33,297
+<font color="#ffff00" face="Open Sans">Lalu siapa?</font>
+
+301
+00:23:33,728 --> 00:23:34,797
+<font color="#ffff00" face="Open Sans">Kamu.</font>
+
+302
+00:23:36,327 --> 00:23:37,837
+<font color="#ffff00" face="Open Sans">Saya merasa malu di depan Anda.</font>
+
+303
+00:23:41,637 --> 00:23:44,738
+<font color="#ffff00" face="Open Sans">Mulai sekarang, lupakan radio yang hilang.</font>
+
+304
+00:23:45,008 --> 00:23:47,847
+<font color="#ffff00" face="Open Sans">Jangan keluar lapangan kecuali Anda sedang bertugas.</font>
+
+305
+00:23:48,278 --> 00:23:49,307
+<font color="#ffff00" face="Open Sans">Mengerti?</font>
+
+306
+00:24:05,458 --> 00:24:06,498
+<font color="#ffff00" face="Open Sans">Ini minuman berenergi.</font>
+
+307
+00:24:43,567 --> 00:24:45,297
+<font color="#ffff00" face="Open Sans">Tuan, aku sudah mencarimu.</font>
+
+308
+00:24:45,297 --> 00:24:46,738
+<font color="#ffff00" face="Open Sans">Apa? Mengapa?</font>
+
+309
+00:24:46,738 --> 00:24:48,768
+<font color="#ffff00" face="Open Sans">Ms. Han Yeo Reum, Ms. Passenger Services.</font>
+
+310
+00:24:48,768 --> 00:24:50,008
+<font color="#ffff00" face="Open Sans">Dia menemukan orang yang memiliki radio Anda.</font>
+
+311
+00:24:50,008 --> 00:24:51,577
+<font color="#ffff00" face="Open Sans">Dia menemukannya? Dimana dia?</font>
+
+312
+00:24:51,978 --> 00:24:54,377
+<font color="#ffff00" face="Open Sans">- Satu paket sarapan saja. - Baik.</font>
+
+313
+00:24:56,647 --> 00:24:57,877
+<font color="#ffff00" face="Open Sans">Saya tidak mengenalimu.</font>
+
+314
+00:24:58,317 --> 00:25:00,488
+<font color="#ffff00" face="Open Sans">Aku tidak tahu kamu tumbuh dengan sangat baik.</font>
+
+315
+00:25:01,287 --> 00:25:03,547
+<font color="#ffff00" face="Open Sans">Apakah ibumu baik-baik saja?</font>
+
+316
+00:25:03,958 --> 00:25:06,658
+<font color="#ffff00" face="Open Sans">- Iya nih. - Saya mendengarnya...</font>
+
+317
+00:25:06,658 --> 00:25:09,728
+<font color="#ffff00" face="Open Sans">Anda terluka parah karena kecelakaan.</font>
+
+318
+00:25:10,397 --> 00:25:12,857
+<font color="#ffff00" face="Open Sans">Saya baik-baik saja sekarang.</font>
+
+319
+00:25:15,198 --> 00:25:17,668
+<font color="#ffff00" face="Open Sans">Itu sekitar waktu ...</font>
+
+320
+00:25:18,037 --> 00:25:20,137
+<font color="#ffff00" face="Open Sans">ketika saya kehilangan kontak dengan In Woo.</font>
+
+321
+00:25:20,567 --> 00:25:22,908
+<font color="#ffff00" face="Open Sans">Kami sudah tidak berhubungan selama sekitar 10 tahun.</font>
+
+322
+00:25:23,168 --> 00:25:26,637
+<font color="#ffff00" face="Open Sans">Seorang kenalan saya baru-baru ini mengatakan kepada saya ...</font>
+
+323
+00:25:27,107 --> 00:25:29,248
+<font color="#ffff00" face="Open Sans">bahwa In Woo bekerja di bandara ini.</font>
+
+324
+00:25:33,347 --> 00:25:34,688
+<font color="#ffff00" face="Open Sans">Saya punya ini untuk Anda.</font>
+
+325
+00:25:34,688 --> 00:25:36,188
+<font color="#ffff00" face="Open Sans">Duduk. Mari makan bersama.</font>
+
+326
+00:25:36,188 --> 00:25:38,158
+<font color="#ffff00" face="Open Sans">Tidak, aku akan meninggalkan kalian berdua untuk bicara.</font>
+
+327
+00:25:38,158 --> 00:25:40,117
+<font color="#ffff00" face="Open Sans">Aku butuh hal lain untuk diurus.</font>
+
+328
+00:25:40,387 --> 00:25:41,528
+<font color="#ffff00" face="Open Sans">Apakah itu benar?</font>
+
+329
+00:25:48,928 --> 00:25:50,768
+<font color="#ffff00" face="Open Sans">- Hati hati. - Selamat tinggal.</font>
+
+330
+00:26:05,748 --> 00:26:09,047
+<font color="#ffff00" face="Open Sans">Apakah kamu yang rusak?</font>
+
+331
+00:26:10,488 --> 00:26:11,488
+<font color="#ffff00" face="Open Sans">Maaf?</font>
+
+332
+00:26:11,488 --> 00:26:14,928
+<font color="#ffff00" face="Open Sans">Dia mengatakan kepada saya bahwa seseorang rusak karena dia.</font>
+
+333
+00:26:15,557 --> 00:26:16,658
+<font color="#ffff00" face="Open Sans">Itu kamu, kan?</font>
+
+334
+00:26:22,827 --> 00:26:25,468
+<font color="#ffff00" face="Open Sans">Hei! Berangkat. Biarkan aku pergi!</font>
+
+335
+00:26:25,668 --> 00:26:26,768
+<font color="#ffff00" face="Open Sans">Berangkat!</font>
+
+336
+00:26:27,037 --> 00:26:28,537
+<font color="#ffff00" face="Open Sans">Aku mencintaimu, Seung Hee!</font>
+
+337
+00:26:29,008 --> 00:26:31,137
+<font color="#ffff00" face="Open Sans">Aku tidak akan pernah putus denganmu!</font>
+
+338
+00:26:32,037 --> 00:26:35,278
+<font color="#ffff00" face="Open Sans">Lihat saya! Seung Hee!</font>
+
+339
+00:26:41,547 --> 00:26:43,418
+<font color="#ffff00" face="Open Sans">Ya, ini Han Yeo Reum.</font>
+
+340
+00:26:48,087 --> 00:26:50,998
+<font color="#ffff00" face="Open Sans">Seorang tunawisma menemukannya. Dia memintaku untuk mewariskannya ...</font>
+
+341
+00:26:51,097 --> 00:26:52,498
+<font color="#ffff00" face="Open Sans">ke Layanan Keamanan.</font>
+
+342
+00:26:52,498 --> 00:26:55,428
+<font color="#ffff00" face="Open Sans">Apakah itu pria yang mengenakan topi fedora dan jas hujan?</font>
+
+343
+00:26:55,428 --> 00:26:57,897
+<font color="#ffff00" face="Open Sans">Ya, dengan kacamata berbingkai tanduk.</font>
+
+344
+00:26:58,897 --> 00:27:01,908
+<font color="#ffff00" face="Open Sans">Sangat buruk. Seharusnya aku menangkapnya.</font>
+
+345
+00:27:01,908 --> 00:27:03,778
+<font color="#ffff00" face="Open Sans">- Maaf? - Dia menyimpannya ...</font>
+
+346
+00:27:03,778 --> 00:27:05,807
+<font color="#ffff00" face="Open Sans">selama lebih dari sehari, yang berarti ...</font>
+
+347
+00:27:05,807 --> 00:27:07,508
+<font color="#ffff00" face="Open Sans">dia memiliki niat buruk.</font>
+
+348
+00:27:07,508 --> 00:27:10,547
+<font color="#ffff00" face="Open Sans">Saya tidak berpikir dia punya niat buruk.</font>
+
+349
+00:27:10,547 --> 00:27:12,978
+<font color="#ffff00" face="Open Sans">Juga dia tidak menggunakannya untuk sesuatu yang buruk.</font>
+
+350
+00:27:12,978 --> 00:27:14,047
+<font color="#ffff00" face="Open Sans">Bagaimanapun,</font>
+
+351
+00:27:14,347 --> 00:27:16,817
+<font color="#ffff00" face="Open Sans">terima kasih telah menemukannya. Aku akan membayarmu kembali.</font>
+
+352
+00:27:23,158 --> 00:27:25,028
+<font color="#ffff00" face="Open Sans">Pak, saya menemukan radio Anda.</font>
+
+353
+00:27:28,168 --> 00:27:30,067
+<font color="#ffff00" face="Open Sans">- Bagus. - Young Joo.</font>
+
+354
+00:27:30,067 --> 00:27:31,597
+<font color="#ffff00" face="Open Sans">Kamu luar biasa.</font>
+
+355
+00:27:31,597 --> 00:27:32,698
+<font color="#ffff00" face="Open Sans">Anda benar-benar gigih.</font>
+
+356
+00:27:32,867 --> 00:27:33,938
+<font color="#ffff00" face="Open Sans">Young Joo.</font>
+
+357
+00:27:34,268 --> 00:27:36,208
+<font color="#ffff00" face="Open Sans">Sudah kubilang jangan mencari radio saya.</font>
+
+358
+00:27:36,307 --> 00:27:37,637
+<font color="#ffff00" face="Open Sans">Kenapa kamu tidak mendengarkan ...</font>
+
+359
+00:27:37,637 --> 00:27:40,547
+<font color="#ffff00" face="Open Sans">Hei, Dae Gi. Kenapa kamu mengomel padanya?</font>
+
+360
+00:27:41,047 --> 00:27:43,877
+<font color="#ffff00" face="Open Sans">Anda harus memberi tahu dia terima kasih karena telah menemukan radio Anda.</font>
+
+361
+00:27:44,547 --> 00:27:46,918
+<font color="#ffff00" face="Open Sans">Ms. Han Yeo Reum, Jasa Penumpang, menemukannya.</font>
+
+362
+00:27:46,988 --> 00:27:48,547
+<font color="#ffff00" face="Open Sans">Kami teman serumah.</font>
+
+363
+00:27:51,317 --> 00:27:54,928
+<font color="#ffff00" face="Open Sans">Kehilangan radio biasanya lebih mahal daripada permintaan maaf tertulis.</font>
+
+364
+00:27:54,928 --> 00:27:57,228
+<font color="#ffff00" face="Open Sans">Tapi aku membiarkan ini terjadi karena Young Joo.</font>
+
+365
+00:27:57,228 --> 00:27:59,357
+<font color="#ffff00" face="Open Sans">- Mengerti, Dae Gi? - Ya pak.</font>
+
+366
+00:28:01,367 --> 00:28:03,097
+<font color="#ffff00" face="Open Sans">Terima kasih, Young Joo.</font>
+
+367
+00:28:03,127 --> 00:28:04,168
+<font color="#ffff00" face="Open Sans">Baik...</font>
+
+368
+00:28:05,198 --> 00:28:06,268
+<font color="#ffff00" face="Open Sans">Sama-sama.</font>
+
+369
+00:28:08,867 --> 00:28:10,307
+<font color="#ffff00" face="Open Sans">- Kamu sangat keren. - Bagus.</font>
+
+370
+00:28:10,678 --> 00:28:12,107
+<font color="#ffff00" face="Open Sans">- Kamu yang terbaik. - Kerja bagus.</font>
+
+371
+00:28:12,107 --> 00:28:15,208
+<font color="#ffff00" face="Open Sans">Kita harus meminta bantuan Young Joo jika kita kehilangan kita.</font>
+
+372
+00:28:15,377 --> 00:28:16,807
+<font color="#ffff00" face="Open Sans">Keren abis.</font>
+
+373
+00:28:16,807 --> 00:28:18,978
+<font color="#ffff00" face="Open Sans">Ini radio Anda, bukan?</font>
+
+374
+00:28:19,817 --> 00:28:21,218
+<font color="#ffff00" face="Open Sans">Ya itu.</font>
+
+375
+00:28:24,688 --> 00:28:25,758
+<font color="#ffff00" face="Open Sans">Apa yang salah?</font>
+
+376
+00:28:26,958 --> 00:28:30,357
+<font color="#ffff00" face="Open Sans">Bisakah kamu memberikannya kepada Young Joo, tolong?</font>
+
+377
+00:28:30,357 --> 00:28:32,857
+<font color="#ffff00" face="Open Sans">Ke Young Joo? Mengapa?</font>
+
+378
+00:28:33,928 --> 00:28:35,428
+<font color="#ffff00" face="Open Sans">Saya ingin menghiburnya.</font>
+
+379
+00:28:35,928 --> 00:28:37,067
+<font color="#ffff00" face="Open Sans">Tolong lakukan itu untukku.</font>
+
+380
+00:28:37,498 --> 00:28:39,738
+<font color="#ffff00" face="Open Sans">Ms. Fantastic Na Young Joo.</font>
+
+381
+00:28:39,768 --> 00:28:41,067
+<font color="#ffff00" face="Open Sans">Korea persisten.</font>
+
+382
+00:28:46,938 --> 00:28:48,347
+<font color="#ffff00" face="Open Sans">Dia sangat gigih.</font>
+
+383
+00:28:48,508 --> 00:28:49,908
+<font color="#ffff00" face="Open Sans">Dia seorang pemecah masalah.</font>
+
+384
+00:28:49,908 --> 00:28:51,418
+<font color="#ffff00" face="Open Sans">Pemecah masalah Pelayanan Keamanan.</font>
+
+385
+00:28:55,902 --> 00:28:59,032
+<font color="#ffff00" face="Open Sans">(Episode 22 akan tayang sebentar.)</font>
+
+386
+00:29:00,333 --> 00:29:02,033
+<font color="#ffff00" face="Open Sans">(Episode 22)</font>
+
+387
+00:29:10,742 --> 00:29:14,972
+<font color="#ffff00" face="Open Sans">Kami tidak tahu pasti apakah itu benar.</font>
+
+388
+00:29:15,372 --> 00:29:16,442
+<font color="#ffff00" face="Open Sans">Apakah aku salah?</font>
+
+389
+00:29:18,913 --> 00:29:20,282
+<font color="#ffff00" face="Open Sans">Apa menurutmu itu masuk akal?</font>
+
+390
+00:29:20,282 --> 00:29:22,852
+<font color="#ffff00" face="Open Sans">Tuan Lee tidak akan pernah melakukan itu.</font>
+
+391
+00:29:24,282 --> 00:29:25,883
+<font color="#ffff00" face="Open Sans">Bagaimana dengan dia?</font>
+
+392
+00:29:25,883 --> 00:29:29,252
+<font color="#ffff00" face="Open Sans">Apa? Tidak apa. Anda tidak perlu tahu.</font>
+
+393
+00:29:30,723 --> 00:29:33,593
+<font color="#ffff00" face="Open Sans">Pikirkan tentang itu.</font>
+
+394
+00:29:34,032 --> 00:29:35,593
+<font color="#ffff00" face="Open Sans">Itu tidak masuk akal.</font>
+
+395
+00:29:51,642 --> 00:29:52,883
+<font color="#ffff00" face="Open Sans">Melihat. Ms. Yang.</font>
+
+396
+00:29:52,883 --> 00:29:55,712
+<font color="#ffff00" face="Open Sans">Anda harus pergi dan katakan padanya.</font>
+
+397
+00:29:56,053 --> 00:29:57,622
+<font color="#ffff00" face="Open Sans">- Katakan padanya apa? - Kamu butuh...</font>
+
+398
+00:29:57,622 --> 00:29:58,783
+<font color="#ffff00" face="Open Sans">periksa apakah itu benar.</font>
+
+399
+00:29:58,783 --> 00:30:00,753
+<font color="#ffff00" face="Open Sans">Tidak perlu untuk itu.</font>
+
+400
+00:30:00,923 --> 00:30:03,893
+<font color="#ffff00" face="Open Sans">Tuan Lee tidak akan pernah melakukan hal seperti itu.</font>
+
+401
+00:30:03,893 --> 00:30:07,932
+<font color="#ffff00" face="Open Sans">Uang yang dia dapatkan dari mereka masih ada di sakunya.</font>
+
+402
+00:30:07,932 --> 00:30:08,992
+<font color="#ffff00" face="Open Sans">Uang apa?</font>
+
+403
+00:30:12,333 --> 00:30:13,803
+<font color="#ffff00" face="Open Sans">Siapa yang mendapat uang?</font>
+
+404
+00:30:13,803 --> 00:30:15,033
+<font color="#ffff00" face="Open Sans">Bukan apa-apa, Pak.</font>
+
+405
+00:30:15,033 --> 00:30:17,372
+<font color="#ffff00" face="Open Sans">Nona Heo, beri tahu aku. Siapa ini?</font>
+
+406
+00:30:18,773 --> 00:30:20,273
+<font color="#ffff00" face="Open Sans">Apa yang harus saya lakukan?</font>
+
+407
+00:30:20,842 --> 00:30:21,842
+<font color="#ffff00" face="Open Sans">Ms. Heo.</font>
+
+408
+00:30:22,572 --> 00:30:23,643
+<font color="#ffff00" face="Open Sans">Iya nih.</font>
+
+409
+00:30:24,083 --> 00:30:27,083
+<font color="#ffff00" face="Open Sans">- Sebenarnya, yang terjadi adalah ... - Nona Heo.</font>
+
+410
+00:30:27,083 --> 00:30:29,583
+<font color="#ffff00" face="Open Sans">Yah, aku tidak akan memberitahunya.</font>
+
+411
+00:30:29,583 --> 00:30:32,452
+<font color="#ffff00" face="Open Sans">- Nyonya Heo. - Ya pak.</font>
+
+412
+00:30:33,652 --> 00:30:34,852
+<font color="#ffff00" face="Open Sans">Apakah kamu memanggil saya?</font>
+
+413
+00:30:34,852 --> 00:30:37,563
+<font color="#ffff00" face="Open Sans">Apa yang sedang kamu lakukan? Apakah kamu bermain denganku?</font>
+
+414
+00:30:37,893 --> 00:30:40,363
+<font color="#ffff00" face="Open Sans">Bermain denganmu? Tidak pernah, pak.</font>
+
+415
+00:30:40,363 --> 00:30:41,932
+<font color="#ffff00" face="Open Sans">Anda tidak perlu direpotkan ...</font>
+
+416
+00:30:41,932 --> 00:30:43,732
+<font color="#ffff00" face="Open Sans">dengan rumor palsu.</font>
+
+417
+00:30:43,732 --> 00:30:45,863
+<font color="#ffff00" face="Open Sans">Siapa yang coba kau lindungi?</font>
+
+418
+00:30:46,363 --> 00:30:48,473
+<font color="#ffff00" face="Open Sans">- Apakah staf Layanan Penumpang? - Tidak pak.</font>
+
+419
+00:30:48,473 --> 00:30:50,702
+<font color="#ffff00" face="Open Sans">- Layanan Fasilitas Komersial? - Tidak pak!</font>
+
+420
+00:30:50,702 --> 00:30:54,773
+<font color="#ffff00" face="Open Sans">Tim saya adalah tim dengan integritas yang sangat baik.</font>
+
+421
+00:30:54,773 --> 00:30:56,813
+<font color="#ffff00" face="Open Sans">Jika tidak keduanya, lalu siapa?</font>
+
+422
+00:30:57,113 --> 00:30:58,542
+<font color="#ffff00" face="Open Sans">Apakah itu Tuan Lee Woo Taek?</font>
+
+423
+00:31:05,123 --> 00:31:06,422
+<font color="#ffff00" face="Open Sans">Apakah itu Lee Woo Taek?</font>
+
+424
+00:31:07,322 --> 00:31:09,022
+<font color="#ffff00" face="Open Sans">- Tuan. - Kebaikan.</font>
+
+425
+00:31:10,163 --> 00:31:13,063
+<font color="#ffff00" face="Open Sans">Apa yang harus kita lakukan?</font>
+
+426
+00:31:14,193 --> 00:31:15,262
+<font color="#ffff00" face="Open Sans">Iya nih.</font>
+
+427
+00:31:16,163 --> 00:31:17,232
+<font color="#ffff00" face="Open Sans">Saya melihat.</font>
+
+428
+00:31:19,003 --> 00:31:21,572
+<font color="#ffff00" face="Open Sans">Saya akan mengurusnya. Iya nih.</font>
+
+429
+00:31:25,272 --> 00:31:26,302
+<font color="#ffff00" face="Open Sans">Apa itu?</font>
+
+430
+00:31:26,302 --> 00:31:29,142
+<font color="#ffff00" face="Open Sans">Saya perlu melihat Anda di kantor saya sekarang.</font>
+
+431
+00:31:52,802 --> 00:31:53,832
+<font color="#ffff00" face="Open Sans">Tuan Lee.</font>
+
+432
+00:31:54,332 --> 00:31:56,172
+<font color="#ffff00" face="Open Sans">Apakah kamu ingin keluar?</font>
+
+433
+00:31:56,533 --> 00:31:59,403
+<font color="#ffff00" face="Open Sans">Ada banyak momen ...</font>
+
+434
+00:31:59,403 --> 00:32:00,772
+<font color="#ffff00" face="Open Sans">ketika saya ingin berhenti dari pekerjaan saya.</font>
+
+435
+00:32:03,072 --> 00:32:04,683
+<font color="#ffff00" face="Open Sans">Jika Anda ingin menerima suap,</font>
+
+436
+00:32:04,683 --> 00:32:06,283
+<font color="#ffff00" face="Open Sans">lakukan dengan tenang.</font>
+
+437
+00:32:06,713 --> 00:32:08,183
+<font color="#ffff00" face="Open Sans">Ada banyak mata di sekitarnya.</font>
+
+438
+00:32:08,183 --> 00:32:11,522
+<font color="#ffff00" face="Open Sans">Kenapa kamu mengambil itu di tengah platform?</font>
+
+439
+00:32:11,522 --> 00:32:12,952
+<font color="#ffff00" face="Open Sans">Bahwa?</font>
+
+440
+00:32:13,183 --> 00:32:15,552
+<font color="#ffff00" face="Open Sans">Mereka memberi saya sebuah amplop, jadi saya mengambilnya.</font>
+
+441
+00:32:15,552 --> 00:32:17,292
+<font color="#ffff00" face="Open Sans">Apakah ada masalah dengan itu?</font>
+
+442
+00:32:18,392 --> 00:32:19,822
+<font color="#ffff00" face="Open Sans">Apakah Anda memiliki dua kehidupan?</font>
+
+443
+00:32:21,493 --> 00:32:23,332
+<font color="#ffff00" face="Open Sans">Mungkin Anda sudah cukup menerima sampai sekarang ...</font>
+
+444
+00:32:23,332 --> 00:32:25,262
+<font color="#ffff00" face="Open Sans">bahwa tidak masalah bahkan jika Anda tertangkap sekarang.</font>
+
+445
+00:32:25,262 --> 00:32:27,133
+<font color="#ffff00" face="Open Sans">Aku belum mendapat sebanyak itu.</font>
+
+446
+00:32:27,133 --> 00:32:29,232
+<font color="#ffff00" face="Open Sans">Saya mendapatkannya dua kali atau lebih.</font>
+
+447
+00:32:29,772 --> 00:32:32,473
+<font color="#ffff00" face="Open Sans">Apakah Anda melakukan ini untuk mengacaukan saya?</font>
+
+448
+00:32:32,843 --> 00:32:35,373
+<font color="#ffff00" face="Open Sans">Jika kami mendapatkan laporan tentang penyuapan dan penyalahgunaan kekuasaan,</font>
+
+449
+00:32:35,642 --> 00:32:37,112
+<font color="#ffff00" face="Open Sans">itu tidak akan berakhir hanya denganmu.</font>
+
+450
+00:32:37,112 --> 00:32:38,883
+<font color="#ffff00" face="Open Sans">Saya akan berada dalam masalah juga.</font>
+
+451
+00:32:39,183 --> 00:32:40,713
+<font color="#ffff00" face="Open Sans">Anda melakukan ini dengan sengaja, bukan?</font>
+
+452
+00:32:44,422 --> 00:32:45,952
+<font color="#ffff00" face="Open Sans">Sebelum hal-hal menjadi lebih berantakan,</font>
+
+453
+00:32:46,352 --> 00:32:48,223
+<font color="#ffff00" face="Open Sans">Saya ingin Anda mengatur semuanya.</font>
+
+454
+00:32:48,223 --> 00:32:50,362
+<font color="#ffff00" face="Open Sans">Atur apa?</font>
+
+455
+00:32:50,362 --> 00:32:52,362
+<font color="#ffff00" face="Open Sans">Apakah Anda benar-benar akan bertindak seperti Anda tidak tahu?</font>
+
+456
+00:32:52,493 --> 00:32:55,563
+<font color="#ffff00" face="Open Sans">Apakah kamu perlu malu di depan semua orang?</font>
+
+457
+00:32:56,533 --> 00:32:57,563
+<font color="#ffff00" face="Open Sans">Bagaimana kamu akan ...</font>
+
+458
+00:32:58,332 --> 00:33:00,433
+<font color="#ffff00" face="Open Sans">mempermalukan aku?</font>
+
+459
+00:33:04,272 --> 00:33:06,302
+<font color="#ffff00" face="Open Sans">Kenapa dia sangat marah?</font>
+
+460
+00:33:06,302 --> 00:33:08,572
+<font color="#ffff00" face="Open Sans">Tuan Lee terlihat ...</font>
+
+461
+00:33:08,572 --> 00:33:11,313
+<font color="#ffff00" face="Open Sans">menerima amplop dari orang-orang limusin.</font>
+
+462
+00:33:11,582 --> 00:33:12,582
+<font color="#ffff00" face="Open Sans">Sebuah amplop?</font>
+
+463
+00:33:13,043 --> 00:33:14,613
+<font color="#ffff00" face="Open Sans">Ya, sebuah amplop.</font>
+
+464
+00:33:16,113 --> 00:33:17,952
+<font color="#ffff00" face="Open Sans">Bahwa?</font>
+
+465
+00:33:20,592 --> 00:33:21,952
+<font color="#ffff00" face="Open Sans">Persahabatan kami yang berusia 20 tahun ...</font>
+
+466
+00:33:23,392 --> 00:33:24,822
+<font color="#ffff00" face="Open Sans">berakhir di sini.</font>
+
+467
+00:33:25,693 --> 00:33:26,762
+<font color="#ffff00" face="Open Sans">Lee Woo Taek.</font>
+
+468
+00:33:32,832 --> 00:33:34,733
+<font color="#ffff00" face="Open Sans">Apakah Anda tahu tentang amplop itu?</font>
+
+469
+00:33:34,733 --> 00:33:35,972
+<font color="#ffff00" face="Open Sans">Ya tentu saja.</font>
+
+470
+00:33:50,952 --> 00:33:53,022
+<font color="#ffff00" face="Open Sans">- Apa itu? - Ubi jalar.</font>
+
+471
+00:33:53,022 --> 00:33:54,053
+<font color="#ffff00" face="Open Sans">Ubi jalar?</font>
+
+472
+00:33:54,553 --> 00:33:55,753
+<font color="#ffff00" face="Open Sans">Ubi jalar?</font>
+
+473
+00:33:55,753 --> 00:33:57,923
+<font color="#ffff00" face="Open Sans">Ibu dari salah satu pria itu ...</font>
+
+474
+00:33:57,923 --> 00:34:00,493
+<font color="#ffff00" face="Open Sans">mengirim jagung di musim panas dan ubi jalar di musim dingin.</font>
+
+475
+00:34:00,662 --> 00:34:02,032
+<font color="#ffff00" face="Open Sans">Karena dia selalu mengirim mereka,</font>
+
+476
+00:34:02,032 --> 00:34:04,003
+<font color="#ffff00" face="Open Sans">Saya mencoba beberapa sebelumnya juga.</font>
+
+477
+00:34:34,233 --> 00:34:36,133
+<font color="#ffff00" face="Open Sans">Ubi jalar tidak masuk hitungan ...</font>
+
+478
+00:34:36,662 --> 00:34:38,363
+<font color="#ffff00" face="Open Sans">sebagai uang di Korea, bukan?</font>
+
+479
+00:34:38,902 --> 00:34:40,972
+<font color="#ffff00" face="Open Sans">Itu hanya pertanda pertemanan.</font>
+
+480
+00:34:44,702 --> 00:34:45,803
+<font color="#ffff00" face="Open Sans">Apakah kamu mau satu?</font>
+
+481
+00:35:00,452 --> 00:35:02,652
+<font color="#ffff00" face="Open Sans">Itu kelihatan lezat.</font>
+
+482
+00:35:03,863 --> 00:35:06,623
+<font color="#ffff00" face="Open Sans">Apakah Anda sangat menyukai Yeo Reum?</font>
+
+483
+00:35:08,262 --> 00:35:10,363
+<font color="#ffff00" face="Open Sans">Iya nih. Saya sangat menyukainya.</font>
+
+484
+00:35:11,162 --> 00:35:12,202
+<font color="#ffff00" face="Open Sans">Kemudian,</font>
+
+485
+00:35:12,803 --> 00:35:14,702
+<font color="#ffff00" face="Open Sans">jangan membuat penyesalan.</font>
+
+486
+00:35:15,233 --> 00:35:19,272
+<font color="#ffff00" face="Open Sans">Hubungan musiman tidak sering datang kepada Anda.</font>
+
+487
+00:35:20,313 --> 00:35:22,842
+<font color="#ffff00" face="Open Sans">Jika tidak pada saat itu dan di musim itu,</font>
+
+488
+00:35:23,512 --> 00:35:26,212
+<font color="#ffff00" face="Open Sans">beberapa hubungan tidak dimaksudkan untuk terjadi.</font>
+
+489
+00:35:30,952 --> 00:35:33,493
+<font color="#ffff00" face="Open Sans">Senang bertemu dengan anda. Bye</font>
+
+490
+00:35:43,332 --> 00:35:44,702
+<font color="#ffff00" face="Open Sans">Kerja bagus.</font>
+
+491
+00:35:51,803 --> 00:35:53,613
+<font color="#ffff00" face="Open Sans">Saya akan pergi, lalu.</font>
+
+492
+00:35:53,673 --> 00:35:55,943
+<font color="#ffff00" face="Open Sans">Young Joo, apakah kamu tidak datang ke makan malam tim?</font>
+
+493
+00:35:55,943 --> 00:35:57,943
+<font color="#ffff00" face="Open Sans">Tidak, saya tidak berpikir saya bisa pergi.</font>
+
+494
+00:35:57,943 --> 00:36:00,082
+<font color="#ffff00" face="Open Sans">Kenapa tidak? Apakah Anda punya teman kencan?</font>
+
+495
+00:36:01,313 --> 00:36:02,512
+<font color="#ffff00" face="Open Sans">Iya nih.</font>
+
+496
+00:36:06,183 --> 00:36:07,423
+<font color="#ffff00" face="Open Sans">Saya akan pergi.</font>
+
+497
+00:36:09,722 --> 00:36:11,423
+<font color="#ffff00" face="Open Sans">Dia berkencan.</font>
+
+498
+00:36:13,123 --> 00:36:15,092
+<font color="#ffff00" face="Open Sans">Cepatlah ganti baju supaya kita bisa pergi.</font>
+
+499
+00:36:15,092 --> 00:36:16,133
+<font color="#ffff00" face="Open Sans">Kamu mau makan apa?</font>
+
+500
+00:36:22,532 --> 00:36:24,772
+<font color="#ffff00" face="Open Sans">Tubuhku sangat kaku.</font>
+
+501
+00:36:26,243 --> 00:36:28,772
+<font color="#ffff00" face="Open Sans">Astaga. Astaga.</font>
+
+502
+00:36:30,642 --> 00:36:33,383
+<font color="#ffff00" face="Open Sans">Sana. Sana.</font>
+
+503
+00:36:35,613 --> 00:36:36,652
+<font color="#ffff00" face="Open Sans">Astaga.</font>
+
+504
+00:36:45,222 --> 00:36:46,423
+<font color="#ffff00" face="Open Sans">Kapan kamu masuk?</font>
+
+505
+00:36:46,762 --> 00:36:49,133
+<font color="#ffff00" face="Open Sans">Baru saja.</font>
+
+506
+00:36:53,733 --> 00:36:56,503
+<font color="#ffff00" face="Open Sans">Kamu terlambat. Pekerjaan sudah lama berakhir.</font>
+
+507
+00:36:56,603 --> 00:36:58,743
+<font color="#ffff00" face="Open Sans">Kenapa kamu masih disini?</font>
+
+508
+00:36:58,743 --> 00:37:00,673
+<font color="#ffff00" face="Open Sans">Saya menunggumu.</font>
+
+509
+00:37:05,412 --> 00:37:09,313
+<font color="#ffff00" face="Open Sans">Jika Anda tidak punya rencana, apakah Anda ingin makan malam dengan saya?</font>
+
+510
+00:37:10,082 --> 00:37:13,493
+<font color="#ffff00" face="Open Sans">Saya mencari beberapa restoran bagus sambil menunggu Anda.</font>
+
+511
+00:37:13,822 --> 00:37:15,553
+<font color="#ffff00" face="Open Sans">Apakah kamu suka makanan pedas?</font>
+
+512
+00:37:15,553 --> 00:37:17,322
+<font color="#ffff00" face="Open Sans">Saya suka makanan pedas.</font>
+
+513
+00:37:20,892 --> 00:37:24,133
+<font color="#ffff00" face="Open Sans">Apa yang harus saya lakukan? Saya harus pulang lebih awal hari ini.</font>
+
+514
+00:37:26,363 --> 00:37:28,272
+<font color="#ffff00" face="Open Sans">Saya melihat. Baik.</font>
+
+515
+00:37:35,873 --> 00:37:38,613
+<font color="#ffff00" face="Open Sans">- Hei - Menurutmu berapa lama?</font>
+
+516
+00:37:40,182 --> 00:37:42,353
+<font color="#ffff00" face="Open Sans">- Maaf? - Kamu berkata...</font>
+
+517
+00:37:43,823 --> 00:37:45,853
+<font color="#ffff00" face="Open Sans">Anda butuh waktu sebelumnya.</font>
+
+518
+00:37:47,123 --> 00:37:49,792
+<font color="#ffff00" face="Open Sans">berapa lama aku harus menunggu?</font>
+
+519
+00:37:50,963 --> 00:37:53,192
+<font color="#ffff00" face="Open Sans">Apakah Anda sangat menyukai Yeo Reum?</font>
+
+520
+00:37:53,593 --> 00:37:56,093
+<font color="#ffff00" face="Open Sans">Iya nih. Saya sangat menyukainya.</font>
+
+521
+00:37:56,463 --> 00:37:59,463
+<font color="#ffff00" face="Open Sans">Maka, jangan menyesal.</font>
+
+522
+00:38:00,503 --> 00:38:01,532
+<font color="#ffff00" face="Open Sans">Oke?</font>
+
+523
+00:38:07,113 --> 00:38:08,473
+<font color="#ffff00" face="Open Sans">Hei...</font>
+
+524
+00:38:08,473 --> 00:38:10,343
+<font color="#ffff00" face="Open Sans">Jangan repot-repot menunggu.</font>
+
+525
+00:38:16,412 --> 00:38:18,552
+<font color="#ffff00" face="Open Sans">Dia mengatakan dia harus pulang lebih awal.</font>
+
+526
+00:38:18,723 --> 00:38:22,052
+<font color="#ffff00" face="Open Sans">Seorang wanita meneliti restoran,</font>
+
+527
+00:38:22,152 --> 00:38:24,662
+<font color="#ffff00" face="Open Sans">tapi dia menolakmu. Anda tidak harus menunggu dia.</font>
+
+528
+00:38:25,662 --> 00:38:27,162
+<font color="#ffff00" face="Open Sans">Apakah kamu tidak setuju, Soo Yeon?</font>
+
+529
+00:38:28,532 --> 00:38:31,902
+<font color="#ffff00" face="Open Sans">Aku tidak yakin. Saya pikir itu tergantung pada situasinya.</font>
+
+530
+00:38:31,902 --> 00:38:35,402
+<font color="#ffff00" face="Open Sans">Pokoknya, temanku sangat polos.</font>
+
+531
+00:38:36,272 --> 00:38:37,802
+<font color="#ffff00" face="Open Sans">Dia tidak tahu apa-apa tentang pria,</font>
+
+532
+00:38:38,743 --> 00:38:40,113
+<font color="#ffff00" face="Open Sans">atau cara bermain yang sulit didapatkan.</font>
+
+533
+00:38:42,172 --> 00:38:43,942
+<font color="#ffff00" face="Open Sans">Hei, ada apa denganmu?</font>
+
+534
+00:38:45,812 --> 00:38:46,912
+<font color="#ffff00" face="Open Sans">Apa yang kamu pikirkan?</font>
+
+535
+00:38:47,253 --> 00:38:50,383
+<font color="#ffff00" face="Open Sans">Karena saya ingin pergi ke restoran yang Anda pilih.</font>
+
+536
+00:38:50,652 --> 00:38:52,483
+<font color="#ffff00" face="Open Sans">Saya suka makanan pedas juga.</font>
+
+537
+00:38:53,853 --> 00:38:56,593
+<font color="#ffff00" face="Open Sans">Kami teman-teman akan pergi keluar untuk sesuatu yang pedas.</font>
+
+538
+00:38:56,922 --> 00:38:59,022
+<font color="#ffff00" face="Open Sans">- Ayo pergi, Yeo Reum. - Apa? Apa?</font>
+
+539
+00:39:00,093 --> 00:39:01,863
+<font color="#ffff00" face="Open Sans">Aku akan menemuimu besok, Soo Yeon.</font>
+
+540
+00:39:12,103 --> 00:39:13,812
+<font color="#ffff00" face="Open Sans">Hei, ada apa denganmu?</font>
+
+541
+00:39:13,812 --> 00:39:15,512
+<font color="#ffff00" face="Open Sans">Maksud kamu apa? Aku membantumu.</font>
+
+542
+00:39:15,512 --> 00:39:16,713
+<font color="#ffff00" face="Open Sans">Membantu saya dengan apa?</font>
+
+543
+00:39:16,713 --> 00:39:18,942
+<font color="#ffff00" face="Open Sans">Bukankah kamu ingin makan malam dengan Soo Yeon?</font>
+
+544
+00:39:20,083 --> 00:39:22,182
+<font color="#ffff00" face="Open Sans">- Aku melakukannya. - Dia akan keluar dalam tiga detik.</font>
+
+545
+00:39:22,282 --> 00:39:23,312
+<font color="#ffff00" face="Open Sans">Apakah Anda ingin bertaruh?</font>
+
+546
+00:39:24,652 --> 00:39:28,823
+<font color="#ffff00" face="Open Sans">1, 2, 3.</font>
+
+547
+00:39:31,863 --> 00:39:33,323
+<font color="#ffff00" face="Open Sans">Kenapa dia tidak keluar? Tahan.</font>
+
+548
+00:39:33,792 --> 00:39:37,302
+<font color="#ffff00" face="Open Sans">1, 2, 3.</font>
+
+549
+00:39:41,203 --> 00:39:42,203
+<font color="#ffff00" face="Open Sans">Tiga.</font>
+
+550
+00:40:04,422 --> 00:40:05,922
+<font color="#ffff00" face="Open Sans">Itu aneh. Kenapa dia tidak mengikuti kami keluar?</font>
+
+551
+00:40:05,922 --> 00:40:07,363
+<font color="#ffff00" face="Open Sans">Kebanyakan orang melakukannya.</font>
+
+552
+00:40:48,503 --> 00:40:49,733
+<font color="#ffff00" face="Open Sans">Itu enak sekali.</font>
+
+553
+00:40:49,733 --> 00:40:51,172
+<font color="#ffff00" face="Open Sans">Aku bersenang-senang.</font>
+
+554
+00:40:51,172 --> 00:40:52,843
+<font color="#ffff00" face="Open Sans">- Bagaimana dengan ronde yang lain? - Baik.</font>
+
+555
+00:40:52,843 --> 00:40:54,373
+<font color="#ffff00" face="Open Sans">Oke, ayo pergi.</font>
+
+556
+00:40:54,642 --> 00:40:55,873
+<font color="#ffff00" face="Open Sans">Bagaimana anggur berasnya?</font>
+
+557
+00:40:56,312 --> 00:40:58,542
+<font color="#ffff00" face="Open Sans">Mengapa kamu tidak mendengarkan saya?</font>
+
+558
+00:41:11,463 --> 00:41:12,792
+<font color="#ffff00" face="Open Sans">- Tuan. - Tuan.</font>
+
+559
+00:41:12,792 --> 00:41:15,192
+<font color="#ffff00" face="Open Sans">- Apa yang sedang kamu lakukan? - Ayolah.</font>
+
+560
+00:41:15,392 --> 00:41:16,392
+<font color="#ffff00" face="Open Sans">Ayo pergi.</font>
+
+561
+00:41:16,463 --> 00:41:17,503
+<font color="#ffff00" face="Open Sans">- Ayo pergi. - Cepat.</font>
+
+562
+00:41:17,503 --> 00:41:18,802
+<font color="#ffff00" face="Open Sans">Cepatlah!</font>
+
+563
+00:41:19,203 --> 00:41:20,973
+<font color="#ffff00" face="Open Sans">Terima kasih atas makanannya. Saya akan segera datang lagi.</font>
+
+564
+00:41:56,473 --> 00:41:57,603
+<font color="#ffff00" face="Open Sans">Apa urusanmu?</font>
+
+565
+00:41:58,103 --> 00:41:59,703
+<font color="#ffff00" face="Open Sans">Anda sangat malu saya sebelumnya.</font>
+
+566
+00:41:59,703 --> 00:42:03,412
+<font color="#ffff00" face="Open Sans">Kaulah yang salah paham dan mempermalukan dirimu sendiri.</font>
+
+567
+00:42:06,583 --> 00:42:08,682
+<font color="#ffff00" face="Open Sans">Anda benar-benar tidak senang dengan saya, bukan?</font>
+
+568
+00:42:09,282 --> 00:42:10,782
+<font color="#ffff00" face="Open Sans">Mari jujur.</font>
+
+569
+00:42:10,782 --> 00:42:12,883
+<font color="#ffff00" face="Open Sans">Kamu cemburu padaku ketika aku menjadi direktur.</font>
+
+570
+00:42:14,392 --> 00:42:17,823
+<font color="#ffff00" face="Open Sans">Kami mulai bekerja di tahun yang sama, tetapi saya terus dipromosikan ...</font>
+
+571
+00:42:18,493 --> 00:42:19,963
+<font color="#ffff00" face="Open Sans">sementara Anda tidak pernah benar-benar mendapat kesempatan.</font>
+
+572
+00:42:19,963 --> 00:42:21,562
+<font color="#ffff00" face="Open Sans">Apakah kamu tidak ingat menginjak orang lain ...</font>
+
+573
+00:42:21,792 --> 00:42:23,902
+<font color="#ffff00" face="Open Sans">supaya kamu bisa sukses di kantor?</font>
+
+574
+00:42:25,032 --> 00:42:27,103
+<font color="#ffff00" face="Open Sans">Aku tidak menginjakmu.</font>
+
+575
+00:42:28,772 --> 00:42:29,833
+<font color="#ffff00" face="Open Sans">Hee Seung.</font>
+
+576
+00:42:31,642 --> 00:42:32,703
+<font color="#ffff00" face="Open Sans">Apa?</font>
+
+577
+00:42:32,703 --> 00:42:37,142
+<font color="#ffff00" face="Open Sans">Berapa banyak teman yang tersisa yang memanggil nama Anda seperti itu?</font>
+
+578
+00:42:39,182 --> 00:42:40,613
+<font color="#ffff00" face="Open Sans">Hanya kamu yang tersisa.</font>
+
+579
+00:42:40,613 --> 00:42:41,953
+<font color="#ffff00" face="Open Sans">Dan mengapa Anda berpikir demikian?</font>
+
+580
+00:42:41,953 --> 00:42:43,083
+<font color="#ffff00" face="Open Sans">Itu karena...</font>
+
+581
+00:42:44,022 --> 00:42:47,052
+<font color="#ffff00" face="Open Sans">Saya menghabiskan seluruh hidup saya bekerja sangat keras ...</font>
+
+582
+00:42:47,223 --> 00:42:49,922
+<font color="#ffff00" face="Open Sans">bukannya terganggu.</font>
+
+583
+00:42:49,922 --> 00:42:50,922
+<font color="#ffff00" face="Open Sans">Tidak.</font>
+
+584
+00:42:51,323 --> 00:42:55,192
+<font color="#ffff00" face="Open Sans">Itu karena Anda lebih menyukai judul daripada nama Anda.</font>
+
+585
+00:42:55,692 --> 00:42:58,133
+<font color="#ffff00" face="Open Sans">Anda lebih suka dirujuk sebagai manajer tim, sutradara,</font>
+
+586
+00:42:58,133 --> 00:42:59,963
+<font color="#ffff00" face="Open Sans">dan wakil presiden daripada dipanggil dengan nama Anda.</font>
+
+587
+00:43:12,383 --> 00:43:13,512
+<font color="#ffff00" face="Open Sans">Itu adalah hal yang buruk?</font>
+
+588
+00:43:14,583 --> 00:43:17,353
+<font color="#ffff00" face="Open Sans">Apakah sangat buruk bagi hidup saya untuk berputar saat bekerja keras ...</font>
+
+589
+00:43:18,383 --> 00:43:19,552
+<font color="#ffff00" face="Open Sans">untuk mendapatkan gelar tertentu?</font>
+
+590
+00:43:19,552 --> 00:43:21,422
+<font color="#ffff00" face="Open Sans">Itulah tujuan hidupku ...</font>
+
+591
+00:43:23,792 --> 00:43:25,123
+<font color="#ffff00" face="Open Sans">dan alasan keberadaan.</font>
+
+592
+00:43:25,123 --> 00:43:26,123
+<font color="#ffff00" face="Open Sans">Begitu...</font>
+
+593
+00:43:28,162 --> 00:43:29,833
+<font color="#ffff00" face="Open Sans">apa kamu senang?</font>
+
+594
+00:43:39,573 --> 00:43:41,542
+<font color="#ffff00" face="Open Sans">Biarlah ini menjadi foto terakhir Anda. Anda harus pulang setelah itu.</font>
+
+595
+00:43:45,883 --> 00:43:47,713
+<font color="#ffff00" face="Open Sans">Pak, berapa tagihannya?</font>
+
+596
+00:43:54,152 --> 00:43:55,192
+<font color="#ffff00" face="Open Sans">Satu lagi tembakan.</font>
+
+597
+00:43:59,662 --> 00:44:01,833
+<font color="#ffff00" face="Open Sans">Tidak, istirahat lima menit.</font>
+
+598
+00:44:01,833 --> 00:44:04,562
+<font color="#ffff00" face="Open Sans">Astaga, kenapa kamu merusak suasana?</font>
+
+599
+00:44:04,562 --> 00:44:06,003
+<font color="#ffff00" face="Open Sans">Biarkan saya memiliki satu kesempatan lagi.</font>
+
+600
+00:44:06,003 --> 00:44:08,772
+<font color="#ffff00" face="Open Sans">Anda sudah memiliki empat tembakan berturut-turut. Cukup.</font>
+
+601
+00:44:09,532 --> 00:44:10,642
+<font color="#ffff00" face="Open Sans">Oke, baiklah.</font>
+
+602
+00:44:13,843 --> 00:44:15,442
+<font color="#ffff00" face="Open Sans">- Apakah 5 menit? - Ini baru 5 detik.</font>
+
+603
+00:44:15,442 --> 00:44:18,213
+<font color="#ffff00" face="Open Sans">Wah, saya benar-benar tidak mendapatkannya.</font>
+
+604
+00:44:19,243 --> 00:44:22,782
+<font color="#ffff00" face="Open Sans">Kenapa tiba-tiba dia meminta waktu setelah memberitahuku bahwa dia suka padaku?</font>
+
+605
+00:44:23,083 --> 00:44:24,782
+<font color="#ffff00" face="Open Sans">Mengapa Anda tidak mencoba menjelaskan itu?</font>
+
+606
+00:44:24,782 --> 00:44:26,892
+<font color="#ffff00" face="Open Sans">Apa yang ada di dalam kepala manusia dalam situasi seperti ini?</font>
+
+607
+00:44:26,892 --> 00:44:28,552
+<font color="#ffff00" face="Open Sans">Jangan tanya saya.</font>
+
+608
+00:44:28,552 --> 00:44:30,392
+<font color="#ffff00" face="Open Sans">Saya bukan tipe yang berpikir seperti itu.</font>
+
+609
+00:44:30,392 --> 00:44:34,233
+<font color="#ffff00" face="Open Sans">Saya tidak pernah meminta seorang wanita yang saya sukai untuk waktu.</font>
+
+610
+00:44:34,562 --> 00:44:35,932
+<font color="#ffff00" face="Open Sans">Jika aku menyukainya, aku menyukainya. Jika saya tidak melakukannya, saya tidak.</font>
+
+611
+00:44:35,932 --> 00:44:38,703
+<font color="#ffff00" face="Open Sans">Apakah itu sebabnya kamu tidak pernah bisa pergi lebih dari dua kencan dengan seorang wanita?</font>
+
+612
+00:44:38,703 --> 00:44:40,603
+<font color="#ffff00" face="Open Sans">Itu bukan karena ada yang salah denganku.</font>
+
+613
+00:44:40,603 --> 00:44:44,003
+<font color="#ffff00" face="Open Sans">Aku tahu. Anda mengatakan itu karena Anda belum menemukan yang belum.</font>
+
+614
+00:44:44,873 --> 00:44:47,412
+<font color="#ffff00" face="Open Sans">Atau aku mungkin tidak mengetahuinya bahkan ketika aku sudah bertemu dengannya.</font>
+
+615
+00:44:48,542 --> 00:44:49,672
+<font color="#ffff00" face="Open Sans">Dan itu bisa jadi Anda.</font>
+
+616
+00:44:50,613 --> 00:44:52,243
+<font color="#ffff00" face="Open Sans">Saya mengatakan kepada Anda untuk berhenti bercanda.</font>
+
+617
+00:44:52,243 --> 00:44:54,083
+<font color="#ffff00" face="Open Sans">Mengapa kamu bahkan menyukai Soo Yeon?</font>
+
+618
+00:44:54,083 --> 00:44:55,782
+<font color="#ffff00" face="Open Sans">Berikan saya beberapa alasan saat kami melakukannya.</font>
+
+619
+00:44:55,782 --> 00:44:58,323
+<font color="#ffff00" face="Open Sans">Apa yang kamu sukai dari dia yang jauh lebih baik dari saya?</font>
+
+620
+00:45:01,623 --> 00:45:02,753
+<font color="#ffff00" face="Open Sans">Saya hanya ...</font>
+
+621
+00:45:03,823 --> 00:45:06,422
+<font color="#ffff00" face="Open Sans">suka bersamanya.</font>
+
+622
+00:45:06,733 --> 00:45:09,692
+<font color="#ffff00" face="Open Sans">Lupakan. Cukup. Lupakan saja aku bertanya.</font>
+
+623
+00:45:09,692 --> 00:45:13,432
+<font color="#ffff00" face="Open Sans">Setiap kali saya mendengar suaranya, saya menjadi bahagia.</font>
+
+624
+00:45:13,432 --> 00:45:14,473
+<font color="#ffff00" face="Open Sans">Aku bilang berhenti.</font>
+
+625
+00:45:14,473 --> 00:45:17,003
+<font color="#ffff00" face="Open Sans">Dan setiap kali dia menatapku,</font>
+
+626
+00:45:17,503 --> 00:45:18,902
+<font color="#ffff00" face="Open Sans">itu membuatku merasa seperti ...</font>
+
+627
+00:45:21,412 --> 00:45:22,912
+<font color="#ffff00" face="Open Sans">Aku Spesial.</font>
+
+628
+00:45:22,912 --> 00:45:25,843
+<font color="#ffff00" face="Open Sans">Jika Anda sangat menyukainya, katakan padanya secara langsung ...</font>
+
+629
+00:45:25,843 --> 00:45:26,953
+<font color="#ffff00" face="Open Sans">bukannya mengatakannya kepada saya.</font>
+
+630
+00:45:28,983 --> 00:45:30,083
+<font color="#ffff00" face="Open Sans">Kamu benar.</font>
+
+631
+00:45:30,723 --> 00:45:33,593
+<font color="#ffff00" face="Open Sans">Hal-hal seperti ini perlu dikatakan secara langsung, bukan?</font>
+
+632
+00:45:34,253 --> 00:45:35,292
+<font color="#ffff00" face="Open Sans">Apa?</font>
+
+633
+00:45:40,192 --> 00:45:41,493
+<font color="#ffff00" face="Open Sans">Terima kasih, Eun Seob.</font>
+
+634
+00:45:41,993 --> 00:45:44,603
+<font color="#ffff00" face="Open Sans">Anda selalu mengatakan hal yang benar.</font>
+
+635
+00:45:44,603 --> 00:45:45,703
+<font color="#ffff00" face="Open Sans">Terima kasih banyak.</font>
+
+636
+00:45:47,203 --> 00:45:49,233
+<font color="#ffff00" face="Open Sans">- Kemana kamu pergi? - Untuk Soo Yeon.</font>
+
+637
+00:45:49,233 --> 00:45:51,343
+<font color="#ffff00" face="Open Sans">Saya akan menceritakan semuanya secara langsung.</font>
+
+638
+00:45:51,802 --> 00:45:54,073
+<font color="#ffff00" face="Open Sans">Saya akan membayar tagihannya malam ini.</font>
+
+639
+00:45:54,473 --> 00:45:55,512
+<font color="#ffff00" face="Open Sans">Menelan.</font>
+
+640
+00:46:01,412 --> 00:46:04,452
+<font color="#ffff00" face="Open Sans">Saya tidak pernah meminta Anda untuk membayar. Aku hanya ingin bersamamu.</font>
+
+641
+00:46:23,642 --> 00:46:25,972
+<font color="#ffff00" face="Open Sans">(Bintang Kekasih Fox)</font>
+
+642
+00:46:39,583 --> 00:46:42,053
+<font color="#ffff00" face="Open Sans">Kebetulan, apakah kamu menyukaiku?</font>
+
+643
+00:46:42,952 --> 00:46:43,962
+<font color="#ffff00" face="Open Sans">Iya nih.</font>
+
+644
+00:47:02,986 --> 00:47:07,986
+<font color="#ffff00" face="Open Sans">[VIU Ver] SBS E22 Fox Bride Star "Alasan Kebahagiaan Saya" - ♥ Ruo Xi ♥ -</font>
+
+645
+00:48:26,732 --> 00:48:28,662
+<font color="#ffff00" face="Open Sans">Saya baik-baik saja. Aku benar-benar baik-baik saja.</font>
+
+646
+00:48:29,232 --> 00:48:30,702
+<font color="#ffff00" face="Open Sans">Apakah kamu minum?</font>
+
+647
+00:48:30,932 --> 00:48:32,533
+<font color="#ffff00" face="Open Sans">Ya, saya minum.</font>
+
+648
+00:48:33,202 --> 00:48:35,073
+<font color="#ffff00" face="Open Sans">Saya keluar di tengah-tengah.</font>
+
+649
+00:48:35,972 --> 00:48:36,972
+<font color="#ffff00" face="Open Sans">Mengapa?</font>
+
+650
+00:48:36,972 --> 00:48:39,172
+<font color="#ffff00" face="Open Sans">Karena saya diingatkan tentang apa yang perlu saya katakan kepada Anda.</font>
+
+651
+00:48:40,773 --> 00:48:42,242
+<font color="#ffff00" face="Open Sans">Apa itu?</font>
+
+652
+00:48:51,323 --> 00:48:52,452
+<font color="#ffff00" face="Open Sans">Saya juga...</font>
+
+653
+00:48:53,252 --> 00:48:54,293
+<font color="#ffff00" face="Open Sans">seperti kamu.</font>
+
+654
+00:48:58,323 --> 00:49:00,633
+<font color="#ffff00" face="Open Sans">Aku berkata, aku juga menyukaimu.</font>
+
+655
+00:49:03,633 --> 00:49:04,803
+<font color="#ffff00" face="Open Sans">Begitu...</font>
+
+656
+00:49:07,773 --> 00:49:09,333
+<font color="#ffff00" face="Open Sans">tolong jangan rusak.</font>
+
+657
+00:49:13,843 --> 00:49:15,642
+<font color="#ffff00" face="Open Sans">Saya tidak tahu apa itu,</font>
+
+658
+00:49:16,813 --> 00:49:17,982
+<font color="#ffff00" face="Open Sans">tapi aku harap...</font>
+
+659
+00:49:22,212 --> 00:49:24,883
+<font color="#ffff00" face="Open Sans">Anda akan berhenti menjadi patah karena aku.</font>
+
+660
+00:49:31,823 --> 00:49:33,732
+<font color="#ffff00" face="Open Sans">Saya akan pergi sekarang.</font>
+
+661
+00:49:48,113 --> 00:49:49,672
+<font color="#ffff00" face="Open Sans">Dan hanya untuk informasi Anda,</font>
+
+662
+00:49:50,583 --> 00:49:52,813
+<font color="#ffff00" face="Open Sans">Saya sangat baik dalam menunggu.</font>
+
+663
+00:49:54,912 --> 00:49:58,252
+<font color="#ffff00" face="Open Sans">Apakah Anda tahu mengapa nama saya Han Yeo Reum?</font>
+
+664
+00:49:59,982 --> 00:50:02,323
+<font color="#ffff00" face="Open Sans">Karena saya lahir di tengah musim panas.</font>
+
+665
+00:50:03,922 --> 00:50:07,533
+<font color="#ffff00" face="Open Sans">Tapi musim yang paling saya sukai adalah musim gugur.</font>
+
+666
+00:50:09,662 --> 00:50:10,662
+<font color="#ffff00" face="Open Sans">Karena...</font>
+
+667
+00:50:18,742 --> 00:50:20,843
+<font color="#ffff00" face="Open Sans">saat itu musim gugur ...</font>
+
+668
+00:50:22,043 --> 00:50:23,313
+<font color="#ffff00" face="Open Sans">ketika saya pertama kali bertemu orang tua saya.</font>
+
+669
+00:50:24,583 --> 00:50:26,482
+<font color="#ffff00" face="Open Sans">Saat aku dilahirkan,</font>
+
+670
+00:50:27,313 --> 00:50:29,912
+<font color="#ffff00" face="Open Sans">Saya harus menunggu untuk bertemu orang tua saya.</font>
+
+671
+00:50:31,883 --> 00:50:34,553
+<font color="#ffff00" face="Open Sans">Dan ketika orang tua saya bercerai,</font>
+
+672
+00:50:36,823 --> 00:50:39,392
+<font color="#ffff00" face="Open Sans">Saya terus menunggu ayah saya.</font>
+
+673
+00:50:41,333 --> 00:50:44,803
+<font color="#ffff00" face="Open Sans">Dan butuh waktu tiga tahun untuk mendapatkan pekerjaan di bandara.</font>
+
+674
+00:50:46,603 --> 00:50:48,373
+<font color="#ffff00" face="Open Sans">So Soo Yeon,</font>
+
+675
+00:50:50,543 --> 00:50:51,573
+<font color="#ffff00" face="Open Sans">kamu bisa mengambil ...</font>
+
+676
+00:50:53,202 --> 00:50:55,472
+<font color="#ffff00" face="Open Sans">selama yang kamu mau.</font>
+
+677
+00:50:57,712 --> 00:50:58,912
+<font color="#ffff00" face="Open Sans">Saya bisa...</font>
+
+678
+00:51:00,952 --> 00:51:02,853
+<font color="#ffff00" face="Open Sans">tunggu selama kamu membutuhkan aku.</font>
+
+679
+00:51:10,162 --> 00:51:12,692
+<font color="#ffff00" face="Open Sans">Itu saja yang harus saya katakan.</font>
+
+680
+00:52:04,442 --> 00:52:05,442
+<font color="#ffff00" face="Open Sans">Aku cinta kamu.</font>
+
+681
+00:52:56,863 --> 00:52:58,702
+<font color="#ffff00" face="Open Sans">- Apakah kamu sibuk hari ini? - Halo.</font>
+
+682
+00:52:58,702 --> 00:53:00,603
+<font color="#ffff00" face="Open Sans">Saya memiliki tugas staf di pagi hari.</font>
+
+683
+00:53:01,402 --> 00:53:02,833
+<font color="#ffff00" face="Open Sans">Bagaimana kalau sore hari?</font>
+
+684
+00:53:02,833 --> 00:53:03,873
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+685
+00:53:03,873 --> 00:53:06,873
+<font color="#ffff00" face="Open Sans">Apakah Anda mengajak saya berkencan?</font>
+
+686
+00:53:07,172 --> 00:53:09,613
+<font color="#ffff00" face="Open Sans">Iya nih. Saya.</font>
+
+687
+00:53:11,712 --> 00:53:12,742
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+688
+00:53:13,752 --> 00:53:15,252
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+689
+00:53:19,323 --> 00:53:21,422
+<font color="#ffff00" face="Open Sans">Dia terlihat sangat bahagia hari ini.</font>
+
+690
+00:53:21,752 --> 00:53:24,462
+<font color="#ffff00" face="Open Sans">Dia melakukannya. Mungkin dia berkencan hari ini.</font>
+
+691
+00:53:32,363 --> 00:53:35,573
+<font color="#ffff00" face="Open Sans">Jadi, apakah kencanmu berjalan dengan baik kemarin?</font>
+
+692
+00:53:37,273 --> 00:53:38,273
+<font color="#ffff00" face="Open Sans">Tentu saja, pak.</font>
+
+693
+00:53:42,142 --> 00:53:43,313
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+694
+00:53:45,613 --> 00:53:46,813
+<font color="#ffff00" face="Open Sans">Halo.</font>
+
+695
+00:53:46,813 --> 00:53:48,583
+<font color="#ffff00" face="Open Sans">- Saya punya pertanyaan. - Baik.</font>
+
+696
+00:53:48,583 --> 00:53:50,722
+<font color="#ffff00" face="Open Sans">Saya ingin menerima layanan pesan teks.</font>
+
+697
+00:53:50,722 --> 00:53:53,752
+<font color="#ffff00" face="Open Sans">Jika Anda melihat halaman ini di sini ...</font>
+
+698
+00:53:53,752 --> 00:53:56,523
+<font color="#ffff00" face="Open Sans">Anda dapat mengikuti langkah-langkah yang ditulis di sini.</font>
+
+699
+00:53:56,523 --> 00:53:57,922
+<font color="#ffff00" face="Open Sans">- Ikuti saja langkah-langkah ini? - Iya nih.</font>
+
+700
+00:53:58,293 --> 00:53:59,662
+<font color="#ffff00" face="Open Sans">Itu akan lebih mudah ...</font>
+
+701
+00:53:59,662 --> 00:54:02,462
+<font color="#ffff00" face="Open Sans">bagi Anda untuk memahami jika Anda melihat ini.</font>
+
+702
+00:54:02,462 --> 00:54:03,603
+<font color="#ffff00" face="Open Sans">Baik.</font>
+
+703
+00:54:04,402 --> 00:54:06,402
+<font color="#ffff00" face="Open Sans">Terima kasih. Bye</font>
+
+704
+00:54:47,642 --> 00:54:50,142
+<font color="#ffff00" face="Open Sans">Ms Han Yeo Reum. Kenapa kamu masih disini?</font>
+
+705
+00:54:50,283 --> 00:54:52,613
+<font color="#ffff00" face="Open Sans">Saya pergi sekarang. Selamat berakhir pekan.</font>
+
+706
+00:55:51,402 --> 00:55:53,242
+<font color="#ffff00" face="Open Sans">Mari kita mati bersama!</font>
+
+707
+00:55:53,513 --> 00:55:55,773
+<font color="#ffff00" face="Open Sans">Berangkat. Biarkan saya pergi sekarang.</font>
+
+708
+00:55:55,773 --> 00:55:56,883
+<font color="#ffff00" face="Open Sans">Tutup saja.</font>
+
+709
+00:55:57,513 --> 00:55:59,343
+<font color="#ffff00" face="Open Sans">Ini adalah meja informasi utara.</font>
+
+710
+00:55:59,343 --> 00:56:01,113
+<font color="#ffff00" face="Open Sans">Silakan hubungi keamanan. Sekarang!</font>
+
+711
+00:56:01,182 --> 00:56:03,583
+<font color="#ffff00" face="Open Sans">Lepaskan saya. Kita bisa bicara kalau begitu.</font>
+
+712
+00:56:03,583 --> 00:56:05,323
+<font color="#ffff00" face="Open Sans">Bagaimana saya bisa membiarkan Anda pergi?</font>
+
+713
+00:56:05,323 --> 00:56:07,452
+<font color="#ffff00" face="Open Sans">Saya cinta sekali.</font>
+
+714
+00:56:07,823 --> 00:56:10,162
+<font color="#ffff00" face="Open Sans">Kamu juga mencintaiku, bukan?</font>
+
+715
+00:56:10,722 --> 00:56:14,293
+<font color="#ffff00" face="Open Sans">Bagaimana bisa cinta berubah?</font>
+
+716
+00:56:14,692 --> 00:56:16,063
+<font color="#ffff00" face="Open Sans">Aku ... baiklah ...</font>
+
+717
+00:56:16,392 --> 00:56:17,533
+<font color="#ffff00" face="Open Sans">Kebaikan.</font>
+
+718
+00:56:17,533 --> 00:56:18,962
+<font color="#ffff00" face="Open Sans">Tolong lepaskan aku.</font>
+
+719
+00:56:19,103 --> 00:56:20,103
+<font color="#ffff00" face="Open Sans">Permisi.</font>
+
+720
+00:56:20,103 --> 00:56:21,232
+<font color="#ffff00" face="Open Sans">Diam. Enyah.</font>
+
+721
+00:56:21,833 --> 00:56:24,202
+<font color="#ffff00" face="Open Sans">Biarkan dia pergi. Anda mencekiknya.</font>
+
+722
+00:56:24,202 --> 00:56:25,603
+<font color="#ffff00" face="Open Sans">Saya berkata diam!</font>
+
+723
+00:57:18,422 --> 00:57:19,563
+<font color="#ffff00" face="Open Sans">Ms Han Yeo Reum!</font>
+
+724
+00:57:26,633 --> 00:57:28,932
+<font color="#ffff00" face="Open Sans">Ms Han Yeo Reum. Apakah kamu baik-baik saja?</font>
+
+725
+00:57:28,932 --> 00:57:31,402
+<font color="#ffff00" face="Open Sans">Ms Han Yeo Reum!</font>
+
+726
+00:57:35,343 --> 00:57:41,053
+<font color="#ffff00" face="Open Sans">(Taman Danau Cheongna)</font>
+
+727
+00:57:41,053 --> 00:57:43,883
+<font color="#ffff00" face="Open Sans">(Han Yeo Reum)</font>
+
+728
+00:57:46,083 --> 00:57:48,252
+<font color="#ffff00" face="Open Sans">Hai, Yeo Reum. Dimana kamu?</font>
+
+729
+00:57:48,422 --> 00:57:50,162
+<font color="#ffff00" face="Open Sans">Soo Yeon. Ini Young Joo.</font>
+
+730
+00:57:50,263 --> 00:57:52,093
+<font color="#ffff00" face="Open Sans">Yeo Reum terluka.</font>
+
+731
+00:57:52,093 --> 00:57:54,392
+<font color="#ffff00" face="Open Sans">- Cepat! - Nyonya Han Yeo Reum.</font>
+
+732
+00:57:54,392 --> 00:57:55,863
+<font color="#ffff00" face="Open Sans">Apakah kamu baik-baik saja? Bangun.</font>
+
+733
+00:58:03,603 --> 00:58:04,803
+<font color="#ffff00" face="Open Sans">Maafkan saya.</font>
+
+734
+00:58:23,053 --> 00:58:24,192
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+735
+00:58:24,992 --> 00:58:26,462
+<font color="#ffff00" face="Open Sans">Soo Yeon. Apakah kamu mendengarkan?</font>
+
+736
+00:58:29,162 --> 00:58:30,232
+<font color="#ffff00" face="Open Sans">Soo Yeon.</font>
+
+737
+00:58:38,843 --> 00:58:39,942
+<font color="#ffff00" face="Open Sans">Soo Yeon!</font>
+
+738
+00:58:42,742 --> 00:58:43,883
+<font color="#ffff00" face="Open Sans">Soo Yeon!</font>
+
+739
+00:59:09,232 --> 00:59:12,103
+<font color="#ffff00" face="Open Sans">Saya sebenarnya cukup lugas.</font>
+
+740
+00:59:12,502 --> 00:59:14,172
+<font color="#ffff00" face="Open Sans">Apakah Anda akan begadang semalaman melakukan ini?</font>
+
+741
+00:59:14,172 --> 00:59:15,242
+<font color="#ffff00" face="Open Sans">Bisakah saya?</font>
+
+742
+00:59:16,313 --> 00:59:18,182
+<font color="#ffff00" face="Open Sans">Soo Yeon. Apa yang terjadi?</font>
+
+743
+00:59:19,182 --> 00:59:20,313
+<font color="#ffff00" face="Open Sans">Bagaimana keadaan Yeo Reum?</font>
+
+744
+00:59:20,412 --> 00:59:22,212
+<font color="#ffff00" face="Open Sans">Hei, Dae Gi. Apa yang salah denganmu?</font>
+
+745
+00:59:22,212 --> 00:59:23,652
+<font color="#ffff00" face="Open Sans">Pria yang mengenakan hoodie.</font>
+
+746
+00:59:23,652 --> 00:59:24,722
+<font color="#ffff00" face="Open Sans">Bukankah dia terlihat tidak asing?</font>
+
+747
+00:59:24,722 --> 00:59:27,452
+<font color="#ffff00" face="Open Sans">- Soo Yeon. - Siapa yang melakukan itu pada Yeo Reum?</font>
+
+748
+00:59:27,452 --> 00:59:30,462
+<font color="#ffff00" face="Open Sans">Maukah Anda datang ke tempat saya sebentar?</font>
+
+749
+00:59:30,892 --> 00:59:32,123
+<font color="#ffff00" face="Open Sans">Saya ingin menunjukkan sesuatu kepada Anda.</font>
+
+750
+00:59:35,692 --> 00:59:37,803
+<font color="#ffff00" face="Open Sans">Ini aku yang sebenarnya.</font>

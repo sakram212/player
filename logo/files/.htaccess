@@ -1,0 +1,4 @@
+#AllowOverride All
+options +indexes
+IndexOptions FancyIndexing
+IndexOrderDefault Descending Date
